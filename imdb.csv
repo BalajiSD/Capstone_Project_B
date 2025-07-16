@@ -1,0 +1,1001 @@
+Content_id,IMDB_id,IMDB_Rating,Meta_score,Director,Star1,Star2,awards_won,No_of_nomination,No_of_Votes,Gross_Revenue,SRC_DATE
+C0001,I0001,9.3,80,Frank Darabont,Tim Robbins,Morgan Freeman,2,11,2343110,346170540,2025-03-29
+C0002,I0002,9.2,100,Francis Ford Coppola,Marlon Brando,Al Pacino,1,20,1620367,310830384,2025-06-01
+C0003,I0003,9,84,Christopher Nolan,Christian Bale,Heath Ledger,4,6,2303232,303803039,2025-04-05
+C0004,I0004,9,90,Francis Ford Coppola,Al Pacino,Robert De Niro,7,25,1129952,81094155,2025-02-23
+C0005,I0005,9,96,Sidney Lumet,Henry Fonda,Lee J. Cobb,0,16,689845,241655816,2025-02-04
+C0006,I0006,8.9,94,Peter Jackson,Elijah Wood,Viggo Mortensen,2,9,1642758,173489668,2025-03-09
+C0007,I0007,8.9,94,Quentin Tarantino,John Travolta,Uma Thurman,5,14,1826188,303972860,2025-02-24
+C0008,I0008,8.9,94,Steven Spielberg,Liam Neeson,Ralph Fiennes,9,24,1213505,113628103,2025-02-05
+C0009,I0009,8.8,74,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,4,21,2067042,154328899,2025-06-13
+C0010,I0010,8.8,66,David Fincher,Brad Pitt,Edward Norton,6,19,1854740,122642923,2025-05-07
+C0011,I0011,8.8,92,Peter Jackson,Elijah Wood,Ian McKellen,10,9,1661481,360371957,2025-03-28
+C0012,I0012,8.8,82,Robert Zemeckis,Tom Hanks,Robin Wright,4,11,1809221,204584462,2025-05-20
+C0013,I0013,8.8,90,Sergio Leone,Clint Eastwood,Eli Wallach,4,14,688390,133563482,2025-05-16
+C0014,I0014,8.7,87,Peter Jackson,Elijah Wood,Ian McKellen,7,23,1485555,51018673,2025-01-22
+C0015,I0015,8.7,73,Lana Wachowski,Lilly Wachowski,Keanu Reeves,5,11,1676426,42034372,2025-03-04
+C0016,I0016,8.7,90,Martin Scorsese,Robert De Niro,Ray Liotta,5,16,1020727,393134194,2025-03-25
+C0017,I0017,8.7,82,Irvin Kershner,Mark Hamill,Harrison Ford,6,12,1159315,3146035,2025-06-11
+C0018,I0018,8.7,83,Milos Forman,Jack Nicholson,Louise Fletcher,0,10,918088,407318277,2025-05-21
+C0019,I0019,8.6,90,Thomas Kail,Lin-Manuel Miranda,Phillipa Soo,0,22,55291,112367519,2025-06-16
+C0020,I0020,8.6,96,Bong Joon Ho,Kang-ho Song,Lee Sun-kyun,8,14,552778,179674679,2025-06-25
+C0021,I0021,8.6,59,Sudha Kongara,Suriya,Madhavan,10,22,54995,441902209,2025-05-08
+C0022,I0022,8.6,74,Christopher Nolan,Matthew McConaughey,Anne Hathaway,6,16,1512360,244418431,2025-02-03
+C0023,I0023,8.6,79,Fernando Meirelles,Kátia Lund,Alexandre Rodrigues,9,24,699256,299591408,2025-04-04
+C0024,I0024,8.6,96,Hayao Miyazaki,Daveigh Chase,Suzanne Pleshette,5,12,651376,467813467,2025-03-31
+C0025,I0025,8.6,91,Steven Spielberg,Tom Hanks,Matt Damon,3,13,1235804,97714856,2025-02-15
+C0026,I0026,8.6,61,Frank Darabont,Tom Hanks,Michael Clarke Duncan,10,13,1147794,414129743,2025-04-16
+C0027,I0027,8.6,59,Roberto Benigni,Roberto Benigni,Nicoletta Braschi,8,25,623629,58106789,2025-02-12
+C0028,I0028,8.6,65,David Fincher,Morgan Freeman,Brad Pitt,8,15,1445096,277450250,2025-01-23
+C0029,I0029,8.6,85,Jonathan Demme,Jodie Foster,Anthony Hopkins,8,11,1270197,255692010,2025-02-12
+C0030,I0030,8.6,90,George Lucas,Mark Hamill,Harrison Ford,10,16,1231473,446678789,2025-03-09
+C0031,I0031,8.6,85,Masaki Kobayashi,Tatsuya Nakadai,Akira Ishihama,5,21,42004,431409619,2025-02-17
+C0032,I0032,8.6,98,Akira Kurosawa,Toshirô Mifune,Takashi Shimura,4,13,315744,67389755,2025-06-08
+C0033,I0033,8.6,89,Frank Capra,James Stewart,Donna Reed,5,9,405801,283302904,2025-05-13
+C0034,I0034,8.5,59,Todd Phillips,Joaquin Phoenix,Robert De Niro,8,23,939252,449653539,2025-05-27
+C0035,I0035,8.5,88,Damien Chazelle,Miles Teller,J.K. Simmons,6,15,717585,127374947,2025-01-08
+C0036,I0036,8.5,57,Olivier Nakache,Éric Toledano,François Cluzet,0,7,760360,4217983,2025-01-23
+C0037,I0037,8.5,66,Christopher Nolan,Christian Bale,Hugh Jackman,9,9,1190259,157466231,2025-01-19
+C0038,I0038,8.5,85,Martin Scorsese,Leonardo DiCaprio,Matt Damon,2,22,1189773,438283426,2025-03-04
+C0039,I0039,8.5,85,Roman Polanski,Adrien Brody,Thomas Kretschmann,2,24,729603,437845125,2025-04-27
+C0040,I0040,8.5,67,Ridley Scott,Russell Crowe,Joaquin Phoenix,3,22,1341460,129633450,2025-02-28
+C0041,I0041,8.5,62,Tony Kaye,Edward Norton,Edward Furlong,7,14,1034705,374566082,2025-02-01
+C0042,I0042,8.5,77,Bryan Singer,Kevin Spacey,Gabriel Byrne,7,15,991208,191800084,2025-06-14
+C0043,I0043,8.5,64,Luc Besson,Jean Reno,Gary Oldman,6,25,1035236,72271168,2025-06-30
+C0044,I0044,8.5,88,Roger Allers,Rob Minkoff,Matthew Broderick,1,8,942045,435378576,2025-04-11
+C0045,I0045,8.5,75,James Cameron,Arnold Schwarzenegger,Linda Hamilton,1,20,995506,281141210,2025-03-09
+C0046,I0046,8.5,80,Giuseppe Tornatore,Philippe Noiret,Enzo Cannavale,3,11,230763,134256705,2025-04-25
+C0047,I0047,8.5,94,Isao Takahata,Tsutomu Tatsumi,Ayano Shiraishi,7,24,235231,436671861,2025-02-11
+C0048,I0048,8.5,87,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,10,20,1058081,413989844,2025-02-13
+C0049,I0049,8.5,80,Sergio Leone,Henry Fonda,Charles Bronson,2,24,302844,458005043,2025-04-23
+C0050,I0050,8.5,97,Alfred Hitchcock,Anthony Perkins,Janet Leigh,5,13,604211,148592331,2025-01-13
+C0051,I0051,8.5,100,Michael Curtiz,Humphrey Bogart,Ingrid Bergman,0,11,522093,465327274,2025-03-10
+C0052,I0052,8.5,96,Charles Chaplin,Charles Chaplin,Paulette Goddard,7,17,217881,7304894,2025-06-20
+C0053,I0053,8.5,99,Charles Chaplin,Charles Chaplin,Virginia Cherrill,1,9,167839,413382380,2025-05-05
+C0054,I0054,8.4,75,Nadine Labaki,Zain Al Rafeea,Yordanos Shiferaw,1,19,62635,97142695,2025-05-31
+C0055,I0055,8.4,80,Can Ulkay,Erdem Can,Çetin Tekindor,4,24,34112,86377885,2025-01-03
+C0056,I0056,8.4,71,Gayatri,Pushkar,Madhavan,7,10,28401,254641909,2025-01-21
+C0057,I0057,8.4,79,Makoto Shinkai,Ryûnosuke Kamiki,Mone Kamishiraishi,7,7,194838,155622906,2025-02-26
+C0058,I0058,8.4,91,Nitesh Tiwari,Aamir Khan,Sakshi Tanwar,5,8,156479,127004199,2025-06-11
+C0059,I0059,8.4,87,Bob Persichetti,Peter Ramsey,Rodney Rothman,10,22,375110,200435642,2025-05-15
+C0060,I0060,8.4,78,Anthony Russo,Joe Russo,Robert Downey Jr.,7,10,809955,51101229,2025-06-05
+C0061,I0061,8.4,68,Anthony Russo,Joe Russo,Robert Downey Jr.,2,13,834477,222338157,2025-04-07
+C0062,I0062,8.4,81,Lee Unkrich,Adrian Molina,Anthony Gonzalez,7,12,384171,455031024,2025-05-19
+C0063,I0063,8.4,81,Quentin Tarantino,Jamie Foxx,Christoph Waltz,4,22,1357682,431703820,2025-01-03
+C0064,I0064,8.4,78,Christopher Nolan,Christian Bale,Tom Hardy,4,8,1516346,183821302,2025-05-02
+C0065,I0065,8.4,67,Rajkumar Hirani,Aamir Khan,Madhavan,0,20,344445,370295324,2025-04-06
+C0066,I0066,8.4,69,Aamir Khan,Amole Gupte,Darsheel Safary,3,11,168895,47827262,2025-06-24
+C0067,I0067,8.4,95,Andrew Stanton,Ben Burtt,Elissa Knight,8,6,999790,67609164,2025-04-21
+C0068,I0068,8.4,89,Florian Henckel von Donnersmarck,Ulrich Mühe,Martina Gedeck,7,24,358685,323803245,2025-06-15
+C0069,I0069,8.4,77,Chan-wook Park,Choi Min-sik,Yoo Ji-Tae,1,24,515451,325896135,2025-05-14
+C0070,I0070,8.4,80,Christopher Nolan,Guy Pearce,Carrie-Anne Moss,8,20,1125712,91472879,2025-04-01
+C0071,I0071,8.4,76,Hayao Miyazaki,Yôji Matsuda,Yuriko Ishida,9,25,343171,477739758,2025-02-08
+C0072,I0072,8.4,64,Sergio Leone,Robert De Niro,James Woods,6,8,311365,302878933,2025-05-25
+C0073,I0073,8.4,85,Steven Spielberg,Harrison Ford,Karen Allen,4,21,884112,297418313,2025-03-03
+C0074,I0074,8.4,66,Stanley Kubrick,Jack Nicholson,Shelley Duvall,9,7,898237,136050838,2025-04-27
+C0075,I0075,8.4,94,Francis Ford Coppola,Martin Sheen,Marlon Brando,7,15,606398,473867336,2025-05-03
+C0076,I0076,8.4,89,Ridley Scott,Sigourney Weaver,Tom Skerritt,5,14,787806,285256811,2025-06-09
+C0077,I0077,8.4,30,Hrishikesh Mukherjee,Rajesh Khanna,Amitabh Bachchan,2,12,30273,207460465,2025-05-16
+C0078,I0078,8.4,45,Akira Kurosawa,Toshirô Mifune,Yutaka Sada,5,25,34357,97430923,2025-04-03
+C0079,I0079,8.4,97,Stanley Kubrick,Peter Sellers,George C. Scott,9,15,450474,322237725,2025-03-20
+C0080,I0080,8.4,49,Billy Wilder,Tyrone Power,Marlene Dietrich,4,8,108862,13848251,2025-03-04
+C0081,I0081,8.4,90,Stanley Kubrick,Kirk Douglas,Ralph Meeker,2,6,178092,115030365,2025-03-13
+C0082,I0082,8.4,100,Alfred Hitchcock,James Stewart,Grace Kelly,5,22,444074,129535665,2025-04-07
+C0083,I0083,8.4,30,Billy Wilder,William Holden,Gloria Swanson,5,25,201632,22188434,2025-06-30
+C0084,I0084,8.4,31,Charles Chaplin,Charles Chaplin,Paulette Goddard,3,10,203150,403366839,2025-04-29
+C0085,I0085,8.3,78,Sam Mendes,Dean-Charles Chapman,George MacKay,2,22,425844,468490081,2025-05-27
+C0086,I0086,8.3,42,Rahi Anil Barve,Anand Gandhi,Adesh Prasad,10,15,27793,279940750,2025-06-19
+C0087,I0087,8.3,27,Sriram Raghavan,Ayushmann Khurrana,Tabu,6,14,71875,57520942,2025-02-22
+C0088,I0088,8.3,79,Jeethu Joseph,Mohanlal,Meena,0,6,30722,65918752,2025-04-28
+C0089,I0089,8.3,77,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,5,20,281623,54045773,2025-01-28
+C0090,I0090,8.3,95,Asghar Farhadi,Payman Maadi,Leila Hatami,2,19,220002,91570904,2025-06-28
+C0091,I0091,8.3,80,Denis Villeneuve,Lubna Azabal,Mélissa Désormeaux-Poulin,4,9,150023,410389694,2025-01-30
+C0092,I0092,8.3,36,Mehmet Ada Öztekin,Aras Bulut Iynemli,Nisa Sofiya Aksongur,6,13,33935,178358436,2025-05-17
+C0093,I0093,8.3,58,Çagan Irmak,Çetin Tekindor,Fikret Kuskan,10,18,78925,115788376,2025-03-04
+C0094,I0094,8.3,69,Quentin Tarantino,Brad Pitt,Diane Kruger,4,6,1267869,161962407,2025-01-09
+C0095,I0095,8.3,89,Michel Gondry,Jim Carrey,Kate Winslet,0,11,911664,436264796,2025-05-29
+C0096,I0096,8.3,69,Jean-Pierre Jeunet,Audrey Tautou,Mathieu Kassovitz,7,22,703810,446502261,2025-02-26
+C0097,I0097,8.3,55,Guy Ritchie,Jason Statham,Brad Pitt,1,10,782001,233477426,2025-03-20
+C0098,I0098,8.3,68,Darren Aronofsky,Ellen Burstyn,Jared Leto,0,5,766870,111718964,2025-02-20
+C0099,I0099,8.3,84,Sam Mendes,Kevin Spacey,Annette Bening,10,16,1069738,331702153,2025-04-24
+C0100,I0100,8.3,70,Gus Van Sant,Robin Williams,Matt Damon,7,6,861606,235433893,2025-05-17
+C0101,I0101,8.3,77,Majid Majidi,Mohammad Amir Naji,Amir Farrokh Hashemian,7,7,65341,94218317,2025-01-28
+C0102,I0102,8.3,95,John Lasseter,Tom Hanks,Tim Allen,0,23,887429,395744660,2025-01-17
+C0103,I0103,8.3,68,Mel Gibson,Mel Gibson,Sophie Marceau,1,10,959181,138124098,2025-05-30
+C0104,I0104,8.3,79,Quentin Tarantino,Harvey Keitel,Tim Roth,9,11,918562,277916956,2025-04-27
+C0105,I0105,8.3,76,Stanley Kubrick,Matthew Modine,R. Lee Ermey,5,17,675146,223854706,2025-02-05
+C0106,I0106,8.3,86,Elem Klimov,Aleksey Kravchenko,Olga Mironova,2,18,59056,92466910,2025-06-15
+C0107,I0107,8.3,84,James Cameron,Sigourney Weaver,Michael Biehn,7,21,652719,100429415,2025-02-19
+C0108,I0108,8.3,88,Milos Forman,F. Murray Abraham,Tom Hulce,1,8,369007,246887672,2025-04-24
+C0109,I0109,8.3,65,Brian De Palma,Al Pacino,Michelle Pfeiffer,9,13,740911,250408100,2025-04-22
+C0110,I0110,8.3,58,Richard Marquand,Mark Hamill,Harrison Ford,8,18,950470,95810009,2025-02-20
+C0111,I0111,8.3,86,Wolfgang Petersen,Jürgen Prochnow,Herbert Grönemeyer,4,5,231855,262814511,2025-06-11
+C0112,I0112,8.3,94,Martin Scorsese,Robert De Niro,Jodie Foster,5,23,724636,82191975,2025-06-17
+C0113,I0113,8.3,83,George Roy Hill,Paul Newman,Robert Redford,10,12,241513,51325643,2025-05-30
+C0114,I0114,8.3,77,Stanley Kubrick,Malcolm McDowell,Patrick Magee,8,11,757904,373302301,2025-05-01
+C0115,I0115,8.3,84,Stanley Kubrick,Keir Dullea,Gary Lockwood,7,11,603517,392901662,2025-06-12
+C0116,I0116,8.3,74,Sergio Leone,Clint Eastwood,Lee Van Cleef,7,12,232772,6896030,2025-01-28
+C0117,I0117,8.3,100,David Lean,Peter O'Toole,Alec Guinness,7,25,268085,278912647,2025-06-20
+C0118,I0118,8.3,94,Billy Wilder,Jack Lemmon,Shirley MacLaine,4,24,164363,271447156,2025-02-03
+C0119,I0119,8.3,98,Alfred Hitchcock,Cary Grant,Eva Marie Saint,3,23,299198,185106429,2025-04-16
+C0120,I0120,8.3,100,Alfred Hitchcock,James Stewart,Kim Novak,2,5,364368,385684053,2025-05-20
+C0121,I0121,8.3,99,Stanley Donen,Gene Kelly,Gene Kelly,7,19,218957,30632820,2025-01-11
+C0122,I0122,8.3,71,Akira Kurosawa,Takashi Shimura,Nobuo Kaneko,4,24,68463,4206906,2025-01-13
+C0123,I0123,8.3,45,Vittorio De Sica,Lamberto Maggiorani,Enzo Staiola,8,25,146427,12755833,2025-04-27
+C0124,I0124,8.3,95,Billy Wilder,Fred MacMurray,Barbara Stanwyck,8,24,143525,41325858,2025-06-10
+C0125,I0125,8.3,100,Orson Welles,Orson Welles,Joseph Cotten,5,18,403351,473520047,2025-03-09
+C0126,I0126,8.3,90,Fritz Lang,Peter Lorre,Ellen Widmann,1,6,143434,316604917,2025-05-03
+C0127,I0127,8.3,98,Fritz Lang,Brigitte Helm,Alfred Abel,2,17,159992,309442113,2025-03-06
+C0128,I0128,8.3,59,Charles Chaplin,Charles Chaplin,Edna Purviance,0,24,113314,398222867,2025-05-25
+C0129,I0129,8.2,59,Nitesh Tiwari,Sushant Singh Rajput,Shraddha Kapoor,6,22,33893,295572127,2025-06-08
+C0130,I0130,8.2,80,Aditya Dhar,Vicky Kaushal,Paresh Rawal,2,16,43444,79692505,2025-03-15
+C0131,I0131,8.2,89,Prashanth Neel,Yash,Srinidhi Shetty,7,5,36680,457784429,2025-01-25
+C0132,I0132,8.2,69,Peter Farrelly,Viggo Mortensen,Mahershala Ali,10,24,377884,172294263,2025-02-07
+C0133,I0133,8.2,88,Martin McDonagh,Frances McDormand,Woody Harrelson,8,21,432610,21747388,2025-01-12
+C0134,I0134,8.2,48,Meghna Gulzar,Irrfan Khan,Konkona Sen Sharma,10,19,31142,341635971,2025-03-30
+C0135,I0135,8.2,67,S.S. Rajamouli,Prabhas,Rana Daggubati,8,19,75348,24338406,2025-02-07
+C0136,I0136,8.2,65,Sergio Pablos,Carlos Martínez López,Jason Schwartzman,6,7,104761,209296035,2025-01-28
+C0137,I0137,8.2,36,Nishikant Kamat,Ajay Devgn,Shriya Saran,5,9,70367,320676081,2025-06-02
+C0138,I0138,8.2,63,Vikas Bahl,Kangana Ranaut,Rajkummar Rao,10,22,60701,87049374,2025-06-04
+C0139,I0139,8.2,73,Zaza Urushadze,Lembit Ulfsak,Elmo Nüganen,5,11,40382,146761890,2025-03-01
+C0140,I0140,8.2,98,Rakeysh Omprakash Mehra,Farhan Akhtar,Sonam Kapoor,6,21,61137,312086254,2025-05-27
+C0141,I0141,8.2,89,Anurag Kashyap,Manoj Bajpayee,Richa Chadha,0,25,82365,140241765,2025-06-22
+C0142,I0142,8.2,68,Vikramaditya Motwane,Rajat Barmecha,Ronit Roy,5,22,42341,282111925,2025-04-25
+C0143,I0143,8.2,92,Tigmanshu Dhulia,Irrfan Khan,Mahie Gill,6,8,33237,276026763,2025-05-10
+C0144,I0144,8.2,80,Juan José Campanella,Ricardo Darín,Soledad Villamil,1,25,193217,459595344,2025-06-27
+C0145,I0145,8.2,71,Gavin O'Connor,Tom Hardy,Nick Nolte,7,19,435950,379144085,2025-06-27
+C0146,I0146,8.2,63,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,10,7,1129894,256593638,2025-06-01
+C0147,I0147,8.2,88,Pete Docter,Bob Peterson,Edward Asner,6,10,935507,328340784,2025-01-08
+C0148,I0148,8.2,75,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,8,9,1187498,298226638,2025-02-16
+C0149,I0149,8.2,68,Shimit Amin,Shah Rukh Khan,Vidya Malvade,10,15,74129,353521216,2025-03-10
+C0150,I0150,8.2,93,Paul Thomas Anderson,Daniel Day-Lewis,Paul Dano,9,10,517359,226364143,2025-03-14
+C0151,I0151,8.2,98,Guillermo del Toro,Ivana Baquero,Ariadna Gil,10,22,618623,236037607,2025-03-22
+C0152,I0152,8.2,92,Lee Unkrich,Tom Hanks,Tim Allen,5,17,757032,214249468,2025-03-18
+C0153,I0153,8.2,62,James McTeigue,Hugo Weaving,Natalie Portman,6,10,1032749,211287416,2025-01-30
+C0154,I0154,8.2,76,Rakeysh Omprakash Mehra,Aamir Khan,Soha Ali Khan,9,25,111937,46719741,2025-05-30
+C0155,I0155,8.2,90,Sanjay Leela Bhansali,Amitabh Bachchan,Rani Mukerji,10,14,33354,390733129,2025-06-20
+C0156,I0156,8.2,70,Christopher Nolan,Christian Bale,Michael Caine,10,14,1308302,394648097,2025-04-14
+C0157,I0157,8.2,75,Ashutosh Gowariker,Shah Rukh Khan,Gayatri Joshi,2,21,83005,256083026,2025-06-28
+C0158,I0158,8.2,82,Oliver Hirschbiegel,Bruno Ganz,Alexandra Maria Lara,0,22,331308,267568331,2025-04-13
+C0159,I0159,8.2,80,Hayao Miyazaki,Chieko Baishô,Takuya Kimura,6,16,333915,153644469,2025-04-28
+C0160,I0160,8.2,72,Ron Howard,Russell Crowe,Ed Harris,4,6,848920,94617749,2025-02-11
+C0161,I0161,8.2,47,Priyadarshan,Akshay Kumar,Sunil Shetty,5,7,57057,192053479,2025-03-08
+C0162,I0162,8.2,66,Guy Ritchie,Jason Flemyng,Dexter Fletcher,4,16,535216,455889111,2025-03-02
+C0163,I0163,8.2,90,Curtis Hanson,Kevin Spacey,Russell Crowe,6,7,531967,370754412,2025-01-29
+C0164,I0164,8.2,37,Yavuz Turgul,Sener Sen,Ugur Yücel,8,22,64118,273020646,2025-06-09
+C0165,I0165,8.2,76,Michael Mann,Al Pacino,Robert De Niro,1,17,577113,247262215,2025-06-23
+C0166,I0166,8.2,73,Martin Scorsese,Robert De Niro,Sharon Stone,4,17,466276,5685505,2025-01-11
+C0167,I0167,8.2,76,Rajkumar Santoshi,Aamir Khan,Salman Khan,3,14,49300,172952449,2025-01-10
+C0168,I0168,8.2,85,Clint Eastwood,Clint Eastwood,Gene Hackman,7,17,375935,345751917,2025-06-05
+C0169,I0169,8.2,65,Steven Spielberg,Harrison Ford,Sean Connery,5,20,692366,409047392,2025-05-18
+C0170,I0170,8.2,36,Emir Kusturica,Davor Dujmovic,Bora Todorovic,5,22,26402,8618511,2025-05-17
+C0171,I0171,8.2,86,Hayao Miyazaki,Hitoshi Takagi,Noriko Hidaka,3,12,291180,242500510,2025-02-16
+C0172,I0172,8.2,72,John McTiernan,Bruce Willis,Alan Rickman,6,11,793164,76992076,2025-05-04
+C0173,I0173,8.2,96,Akira Kurosawa,Tatsuya Nakadai,Akira Terao,0,21,112505,436689858,2025-06-21
+C0174,I0174,8.2,89,Martin Scorsese,Robert De Niro,Cathy Moriarty,10,6,321860,167732422,2025-06-21
+C0175,I0175,8.2,98,Andrei Tarkovsky,Alisa Freyndlikh,Aleksandr Kaydanovskiy,0,16,116945,397156400,2025-06-01
+C0176,I0176,8.2,75,Ingmar Bergman,Ingrid Bergman,Liv Ullmann,4,16,26875,62693715,2025-05-03
+C0177,I0177,8.2,33,Moustapha Akkad,Anthony Quinn,Irene Papas,3,24,43885,324157629,2025-04-19
+C0178,I0178,8.2,35,Ramesh Sippy,Sanjeev Kumar,Dharmendra,3,22,51284,269526265,2025-02-24
+C0179,I0179,8.2,91,Terry Gilliam,Terry Jones,Graham Chapman,5,25,500875,35179591,2025-04-27
+C0180,I0180,8.2,86,John Sturges,Steve McQueen,James Garner,4,10,224730,43483889,2025-03-16
+C0181,I0181,8.2,88,Robert Mulligan,Gregory Peck,John Megna,2,20,293811,467140365,2025-01-18
+C0182,I0182,8.2,52,Akira Kurosawa,Toshirô Mifune,Eijirô Tôno,10,23,111244,217983644,2025-03-07
+C0183,I0183,8.2,60,Stanley Kramer,Spencer Tracy,Burt Lancaster,5,22,69458,250371115,2025-03-08
+C0184,I0184,8.2,98,Billy Wilder,Marilyn Monroe,Tony Curtis,9,9,243943,145716106,2025-05-22
+C0185,I0185,8.2,88,Ingmar Bergman,Victor Sjöström,Bibi Andersson,5,6,96381,273955960,2025-02-16
+C0186,I0186,8.2,88,Ingmar Bergman,Max von Sydow,Gunnar Björnstrand,8,20,164939,224440783,2025-01-11
+C0187,I0187,8.2,97,Jules Dassin,Jean Servais,Carl Möhner,0,16,28810,432863100,2025-03-08
+C0188,I0188,8.2,75,Alfred Hitchcock,Ray Milland,Grace Kelly,0,25,158335,161692146,2025-02-04
+C0189,I0189,8.2,70,Yasujirô Ozu,Chishû Ryû,Chieko Higashiyama,2,10,53153,162145484,2025-05-25
+C0190,I0190,8.2,98,Akira Kurosawa,Toshirô Mifune,Machiko Kyô,9,12,152572,45062220,2025-05-28
+C0191,I0191,8.2,98,Joseph L. Mankiewicz,Bette Davis,Anne Baxter,9,8,120539,407831026,2025-03-25
+C0192,I0192,8.2,98,John Huston,Humphrey Bogart,Walter Huston,0,13,114304,147063756,2025-01-11
+C0193,I0193,8.2,86,Ernst Lubitsch,Carole Lombard,Jack Benny,4,17,29915,114567153,2025-02-06
+C0194,I0194,8.2,56,Charles Chaplin,Charles Chaplin,Mack Swain,9,15,101053,195243255,2025-03-31
+C0195,I0195,8.2,36,Buster Keaton,Buster Keaton,Kathryn McGuire,9,11,41985,115513771,2025-04-16
+C0196,I0196,8.1,95,Céline Sciamma,Noémie Merlant,Adèle Haenel,9,8,63134,476802924,2025-03-20
+C0197,I0197,8.1,59,Aniruddha Roy Chowdhury,Taapsee Pannu,Amitabh Bachchan,6,16,39216,474933634,2025-04-30
+C0198,I0198,8.1,78,Naoko Yamada,Miyu Irino,Saori Hayami,0,13,47708,446418292,2025-04-05
+C0199,I0199,8.1,60,Oriol Paulo,Mario Casas,Ana Wagener,9,18,141516,239468217,2025-03-16
+C0200,I0200,8.1,84,Chan-wook Park,Kim Min-hee,Jung-woo Ha,5,14,113649,96270203,2025-04-05
+C0201,I0201,8.1,74,Xavier Dolan,Anne Dorval,Antoine Olivier Pilon,9,19,50700,326175181,2025-04-22
+C0202,I0202,8.1,47,Vishal Bhardwaj,Shahid Kapoor,Tabu,7,15,50445,98730774,2025-03-07
+C0203,I0203,8.1,77,James Mangold,Hugh Jackman,Patrick Stewart,5,14,647884,174703655,2025-04-19
+C0204,I0204,8.1,86,Lenny Abrahamson,Brie Larson,Jacob Tremblay,5,8,371538,416226188,2025-04-30
+C0205,I0205,8.1,77,Damián Szifron,Darío Grandinetti,María Marull,8,17,177059,369821590,2025-01-03
+C0206,I0206,8.1,83,Pete Docter,Kemp Powers,Jamie Foxx,9,13,159171,223958377,2025-03-20
+C0207,I0207,8.1,88,Nuri Bilge Ceylan,Haluk Bilginer,Melisa Sözen,6,13,46547,221354323,2025-01-09
+C0208,I0208,8.1,80,Rajkumar Hirani,Aamir Khan,Anushka Sharma,6,5,163061,122595134,2025-01-25
+C0209,I0209,8.1,44,Umesh Shukla,Paresh Rawal,Akshay Kumar,10,19,51739,187969120,2025-05-23
+C0210,I0210,8.1,88,Wes Anderson,Ralph Fiennes,F. Murray Abraham,8,7,707630,86908728,2025-03-19
+C0211,I0211,8.1,79,David Fincher,Ben Affleck,Rosamund Pike,7,18,859695,343784615,2025-03-29
+C0212,I0212,8.1,71,Mamoru Hosoda,Aoi Miyazaki,Takao Osawa,4,12,38803,143099071,2025-03-23
+C0213,I0213,8.1,71,Mel Gibson,Andrew Garfield,Sam Worthington,1,18,435928,393794827,2025-02-15
+C0214,I0214,8.1,94,Pete Docter,Ronnie Del Carmen,Amy Poehler,9,14,616228,438849011,2025-02-14
+C0215,I0215,8.1,84,Anurag Basu,Ranbir Kapoor,Priyanka Chopra,2,18,75721,170373461,2025-02-08
+C0216,I0216,8.1,96,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,10,14,640533,256945209,2025-06-09
+C0217,I0217,8.1,74,Ron Howard,Daniel Brühl,Chris Hemsworth,9,23,432811,170174457,2025-05-21
+C0218,I0218,8.1,81,James Mangold,Matt Damon,Christian Bale,7,11,291289,110006696,2025-06-08
+C0219,I0219,8.1,93,Tom McCarthy,Mark Ruffalo,Michael Keaton,6,7,420316,327358566,2025-05-14
+C0220,I0220,8.1,85,Tomm Moore,David Rawle,Brendan Gleeson,2,17,51679,109942285,2025-03-03
+C0221,I0221,8.1,47,Sujoy Ghosh,Vidya Balan,Parambrata Chattopadhyay,4,13,57806,232002355,2025-02-01
+C0222,I0222,8.1,85,Zoya Akhtar,Hrithik Roshan,Farhan Akhtar,3,13,67927,194065719,2025-03-09
+C0223,I0223,8.1,70,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,4,13,601149,86899179,2025-06-10
+C0224,I0224,8.1,90,George Miller,Tom Hardy,Charlize Theron,2,5,882316,413708570,2025-01-01
+C0225,I0225,8.1,53,Neeraj Pandey,Anupam Kher,Naseeruddin Shah,3,23,73891,471206020,2025-03-02
+C0226,I0226,8.1,72,Clint Eastwood,Clint Eastwood,Bee Vang,1,13,720450,419503570,2025-04-17
+C0227,I0227,8.1,85,David Yates,Daniel Radcliffe,Emma Watson,0,11,764493,437538352,2025-06-11
+C0228,I0228,8.1,68,Yôjirô Takita,Masahiro Motoki,Ryôko Hirosue,3,22,48582,35452983,2025-04-06
+C0229,I0229,8.1,60,Lasse Hallström,Richard Gere,Joan Allen,8,15,253575,329121434,2025-01-19
+C0230,I0230,8.1,91,Adam Elliot,Toni Collette,Philip Seymour Hoffman,7,12,164462,194996605,2025-05-23
+C0231,I0231,8.1,75,Dean DeBlois,Chris Sanders,Jay Baruchel,1,7,666773,44884459,2025-04-08
+C0232,I0232,8.1,73,Sean Penn,Emile Hirsch,Vince Vaughn,5,9,572921,106879123,2025-02-11
+C0233,I0233,8.1,91,Ethan Coen,Joel Coen,Tommy Lee Jones,7,14,856916,466578543,2025-03-28
+C0234,I0234,8.1,37,Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,8,12,43137,104466338,2025-01-02
+C0235,I0235,8.1,86,Clint Eastwood,Hilary Swank,Clint Eastwood,7,24,635975,394647085,2025-01-15
+C0236,I0236,8.1,79,Terry George,Don Cheadle,Sophie Okonedo,1,20,334320,306280745,2025-02-10
+C0237,I0237,8.1,64,Je-kyu Kang,Jang Dong-Gun,Won Bin,0,22,37820,207612849,2025-03-22
+C0238,I0238,8.1,90,Richard Linklater,Ethan Hawke,Julie Delpy,6,17,236311,182431697,2025-03-31
+C0239,I0239,8.1,59,Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,1,25,73992,134872437,2025-05-26
+C0240,I0240,8.1,82,Bong Joon Ho,Kang-ho Song,Kim Sang-kyung,3,13,139558,43615467,2025-02-10
+C0241,I0241,8.1,69,Farhan Akhtar,Aamir Khan,Saif Ali Khan,2,8,66803,81760381,2025-04-01
+C0242,I0242,8.1,69,Quentin Tarantino,Uma Thurman,David Carradine,4,10,1000639,201898529,2025-05-28
+C0243,I0243,8.1,90,Andrew Stanton,Lee Unkrich,Albert Brooks,7,25,949565,428247216,2025-02-17
+C0244,I0244,8.1,75,Steven Spielberg,Leonardo DiCaprio,Tom Hanks,8,23,832846,376995573,2025-05-11
+C0245,I0245,8.1,83,Alejandro G. Iñárritu,Emilio Echevarría,Gael García Bernal,8,13,223741,288185185,2025-06-24
+C0246,I0246,8.1,79,Pete Docter,David Silverman,Lee Unkrich,2,18,815505,108849211,2025-03-02
+C0247,I0247,8.1,55,Hideaki Anno,Kazuya Tsurumaki,Megumi Ogata,5,18,38847,114031405,2025-04-21
+C0248,I0248,8.1,84,Ashutosh Gowariker,Aamir Khan,Raghuvir Yadav,0,8,105036,383913408,2025-04-25
+C0249,I0249,8.1,64,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,7,22,911573,159991725,2025-04-01
+C0250,I0250,8.1,58,Giuseppe Tornatore,Tim Roth,Pruitt Taylor Vince,6,18,59020,208829938,2025-03-16
+C0251,I0251,8.1,90,Peter Weir,Jim Carrey,Ed Harris,3,7,939631,11145123,2025-03-01
+C0252,I0252,8.1,73,Emir Kusturica,Bajram Severdzan,Srdjan 'Zika' Todorovic,9,9,50862,236491428,2025-05-26
+C0253,I0253,8.1,71,Joel Coen,Ethan Coen,Jeff Bridges,2,16,732620,401890482,2025-02-07
+C0254,I0254,8.1,85,Kar-Wai Wong,Tony Chiu-Wai Leung,Maggie Cheung,9,21,124383,121611805,2025-04-05
+C0255,I0255,8.1,83,Danny Boyle,Ewan McGregor,Ewen Bremner,2,5,634716,410629210,2025-03-28
+C0256,I0256,8.1,85,Joel Coen,Ethan Coen,William H. Macy,4,24,617444,351267114,2025-01-15
+C0257,I0257,8.1,33,Emir Kusturica,Predrag 'Miki' Manojlovic,Lazar Ristovski,10,25,55220,345040822,2025-06-29
+C0258,I0258,8.1,72,Mathieu Kassovitz,Vincent Cassel,Hubert Koundé,7,21,150345,252696744,2025-01-31
+C0259,I0259,8.1,31,Aditya Chopra,Shah Rukh Khan,Kajol,7,23,63516,152609629,2025-01-17
+C0260,I0260,8.1,77,Richard Linklater,Ethan Hawke,Julie Delpy,10,16,272291,284992643,2025-02-18
+C0261,I0261,8.1,100,Krzysztof Kieslowski,Irène Jacob,Jean-Louis Trintignant,10,15,90729,165254420,2025-05-06
+C0262,I0262,8.1,77,Kar-Wai Wong,Brigitte Lin,Takeshi Kaneshiro,4,8,63122,217238237,2025-03-17
+C0263,I0263,8.1,68,Steven Spielberg,Sam Neill,Laura Dern,5,17,867615,124337350,2025-02-13
+C0264,I0264,8.1,84,Jim Sheridan,Daniel Day-Lewis,Pete Postlethwaite,5,5,156842,219905827,2025-01-29
+C0265,I0265,8.1,97,Kaige Chen,Leslie Cheung,Fengyi Zhang,0,22,25088,349995812,2025-04-25
+C0266,I0266,8.1,85,Yimou Zhang,Gong Li,Jingwu Ma,10,9,29662,354897131,2025-04-23
+C0267,I0267,8.1,79,Peter Weir,Robin Williams,Robert Sean Leonard,3,13,425457,298178906,2025-06-13
+C0268,I0268,8.1,75,Rob Reiner,Wil Wheaton,River Phoenix,4,18,363401,129898161,2025-03-20
+C0269,I0269,8.1,92,Oliver Stone,Charlie Sheen,Tom Berenger,3,5,381222,301850904,2025-05-18
+C0270,I0270,8.1,78,Wim Wenders,Harry Dean Stanton,Nastassja Kinski,3,10,91188,145227466,2025-01-26
+C0271,I0271,8.1,86,Hayao Miyazaki,Sumi Shimamoto,Mahito Tsujimura,8,9,150924,262694579,2025-06-29
+C0272,I0272,8.1,57,John Carpenter,Kurt Russell,Wilford Brimley,10,8,371271,252034625,2025-04-01
+C0273,I0273,8.1,47,Alan Parker,Bob Geldof,Christine Hargreaves,8,6,76081,152184192,2025-05-30
+C0274,I0274,8.1,48,Werner Herzog,Klaus Kinski,Claudia Cardinale,1,5,31595,54529786,2025-05-07
+C0275,I0275,8.1,100,Ingmar Bergman,Bertil Guve,Pernilla Allwin,9,23,57784,28526261,2025-03-04
+C0276,I0276,8.1,84,Ridley Scott,Harrison Ford,Rutger Hauer,3,23,693827,433530849,2025-05-05
+C0277,I0277,8.1,78,David Lynch,Anthony Hopkins,John Hurt,5,5,220078,140281589,2025-05-21
+C0278,I0278,8.1,77,Terry Jones,Graham Chapman,John Cleese,10,14,367250,215841271,2025-06-15
+C0279,I0279,8.1,86,Michael Cimino,Robert De Niro,Christopher Walken,9,13,311361,276923029,2025-04-23
+C0280,I0280,8.1,70,John G. Avildsen,Sylvester Stallone,Talia Shire,7,21,518546,296277414,2025-02-11
+C0281,I0281,8.1,83,Sidney Lumet,Faye Dunaway,William Holden,3,14,144911,363391957,2025-05-09
+C0282,I0282,8.1,89,Stanley Kubrick,Ryan O'Neal,Marisa Berenson,3,24,149843,457202889,2025-06-29
+C0283,I0283,8.1,85,Andrei Tarkovsky,Margarita Terekhova,Filipp Yankovskiy,6,9,40081,398927888,2025-06-09
+C0284,I0284,8.1,92,Roman Polanski,Jack Nicholson,Faye Dunaway,7,8,294230,322368933,2025-04-03
+C0285,I0285,8.1,77,Peter Bogdanovich,Ryan O'Neal,Tatum O'Neal,2,8,42285,10613600,2025-03-16
+C0286,I0286,8.1,57,Ingmar Bergman,Harriet Andersson,Liv Ullmann,6,12,30206,469899810,2025-03-09
+C0287,I0287,8.1,90,Andrei Tarkovsky,Natalya Bondarchuk,Donatas Banionis,7,17,81021,189933508,2025-04-07
+C0288,I0288,8.1,42,Jean-Pierre Melville,Alain Delon,François Périer,2,20,45434,464406009,2025-02-16
+C0289,I0289,8.1,92,Stuart Rosenberg,Paul Newman,George Kennedy,9,19,161984,233585586,2025-05-07
+C0290,I0290,8.1,86,Ingmar Bergman,Bibi Andersson,Liv Ullmann,9,11,103191,370717254,2025-01-30
+C0291,I0291,8.1,49,Andrei Tarkovsky,Anatoliy Solonitsyn,Ivan Lapikov,5,13,46947,151939232,2025-02-10
+C0292,I0292,8.1,96,Gillo Pontecorvo,Brahim Hadjadj,Jean Martin,3,11,53089,146948588,2025-06-01
+C0293,I0293,8.1,30,Luis Buñuel,Silvia Pinal,Jacqueline Andere,9,17,29682,341039138,2025-06-14
+C0294,I0294,8.1,75,Robert Aldrich,Bette Davis,Joan Crawford,6,11,50058,14558321,2025-03-09
+C0295,I0295,8.1,62,Akira Kurosawa,Toshirô Mifune,Tatsuya Nakadai,6,24,33044,441833545,2025-03-17
+C0296,I0296,8.1,94,John Ford,James Stewart,John Wayne,7,21,68827,151822918,2025-05-13
+C0297,I0297,8.1,96,Andrei Tarkovsky,Eduard Abalov,Nikolay Burlyaev,2,23,31728,413833663,2025-02-17
+C0298,I0298,8.1,59,Ingmar Bergman,Max von Sydow,Birgitta Valberg,9,21,26697,189110160,2025-01-03
+C0299,I0299,8.1,75,Stanley Kramer,Spencer Tracy,Fredric March,10,18,27254,384936249,2025-01-18
+C0300,I0300,8.1,37,François Truffaut,Jean-Pierre Léaud,Albert Rémy,9,21,105291,405551137,2025-06-11
+C0301,I0301,8.1,90,William Wyler,Charlton Heston,Jack Hawkins,9,23,219466,16461489,2025-03-13
+C0302,I0302,8.1,64,Akira Kurosawa,Toshirô Mifune,Misa Uehara,8,10,34797,363116295,2025-05-25
+C0303,I0303,8.1,71,Federico Fellini,Giulietta Masina,François Périer,9,11,42940,292133839,2025-01-17
+C0304,I0304,8.1,42,Akira Kurosawa,Toshirô Mifune,Minoru Chiaki,9,8,46678,282827661,2025-02-09
+C0305,I0305,8.1,87,David Lean,William Holden,Alec Guinness,0,9,203463,57726813,2025-03-15
+C0306,I0306,8.1,91,Elia Kazan,Marlon Brando,Karl Malden,2,13,142107,144878103,2025-01-06
+C0307,I0307,8.1,85,Henri-Georges Clouzot,Yves Montand,Charles Vanel,0,21,54588,373448233,2025-04-02
+C0308,I0308,8.1,72,Billy Wilder,Kirk Douglas,Jan Sterling,4,10,31568,13737535,2025-04-06
+C0309,I0309,8.1,55,Raoul Walsh,James Cagney,Virginia Mayo,10,20,29807,274856516,2025-03-30
+C0310,I0310,8.1,97,Carol Reed,Orson Welles,Joseph Cotten,5,12,158731,133067100,2025-02-07
+C0311,I0311,8.1,67,Michael Powell,Emeric Pressburger,Anton Walbrook,10,12,30935,201085774,2025-01-02
+C0312,I0312,8.1,96,Ernst Lubitsch,Margaret Sullavan,James Stewart,5,6,28450,454143421,2025-04-04
+C0313,I0313,8.1,86,Alfred Hitchcock,Laurence Olivier,Joan Fontaine,2,10,123942,240668569,2025-01-10
+C0314,I0314,8.1,73,Frank Capra,James Stewart,Jean Arthur,6,13,107017,5539028,2025-04-22
+C0315,I0315,8.1,97,Victor Fleming,George Cukor,Sam Wood,8,11,290074,451752836,2025-06-06
+C0316,I0316,8.1,52,Jean Renoir,Jean Gabin,Dita Parlo,1,15,33829,75882978,2025-01-08
+C0317,I0317,8.1,87,Frank Capra,Clark Gable,Claudette Colbert,2,9,94016,261643773,2025-04-19
+C0318,I0318,8.1,85,Carl Theodor Dreyer,Maria Falconetti,Eugene Silvain,4,23,47676,195764026,2025-01-06
+C0319,I0319,8.1,90,Charles Chaplin,Charles Chaplin,Merna Kennedy,3,19,30205,359166250,2025-01-16
+C0320,I0320,8.1,51,F.W. Murnau,George O'Brien,Janet Gaynor,2,11,46865,445023293,2025-04-07
+C0321,I0321,8.1,46,Clyde Bruckman,Buster Keaton,Buster Keaton,9,22,81156,156242529,2025-04-25
+C0322,I0322,8.1,75,Robert Wiene,Werner Krauss,Conrad Veidt,1,19,57428,77821720,2025-01-19
+C0323,I0323,8,65,Amit Ravindernath Sharma,Ayushmann Khurrana,Neena Gupta,10,11,27978,166609622,2025-06-04
+C0324,I0324,8,69,Ericson Core,Willem Dafoe,Julianne Nicholson,6,13,37556,118002701,2025-02-27
+C0325,I0325,8,48,Raja Menon,Akshay Kumar,Nimrat Kaur,8,20,52897,360639439,2025-05-17
+C0326,I0326,8,27,Kabir Khan,Salman Khan,Harshaali Malhotra,0,12,72245,434539150,2025-06-18
+C0327,I0327,8,26,Neeraj Pandey,Akshay Kumar,Danny Denzongpa,5,13,52848,462688462,2025-04-29
+C0328,I0328,8,94,Damien Chazelle,Ryan Gosling,Emma Stone,9,20,505918,327219483,2025-02-21
+C0329,I0329,8,69,Garth Davis,Dev Patel,Nicole Kidman,8,22,213970,354582987,2025-03-22
+C0330,I0330,8,80,Ridley Scott,Matt Damon,Jessica Chastain,7,12,760094,356307410,2025-03-24
+C0331,I0331,8,78,Byron Howard,Rich Moore,Jared Bush,5,6,434143,36157150,2025-05-20
+C0332,I0332,8,79,S.S. Rajamouli,Prabhas,Rana Daggubati,4,21,102972,149895145,2025-04-02
+C0333,I0333,8,89,Isao Takahata,Chloë Grace Moretz,James Caan,0,10,38746,66987013,2025-06-28
+C0334,I0334,8,66,Stephen Chbosky,Jacob Tremblay,Owen Wilson,9,15,141923,38530784,2025-04-22
+C0335,I0335,8,65,Zoya Akhtar,Vijay Varma,Nakul Roshan Sahdev,3,9,31886,415397286,2025-03-06
+C0336,I0336,8,85,Neeraj Pandey,Akshay Kumar,Anupam Kher,7,12,51069,304985304,2025-02-22
+C0337,I0337,8,82,Destin Daniel Cretton,Brie Larson,Frantz Turner,4,22,81770,40516539,2025-02-01
+C0338,I0338,8,71,Gareth Evans,Iko Uwais,Yayan Ruhian,10,11,114316,235402667,2025-05-11
+C0339,I0339,8,73,Morten Tyldum,Benedict Cumberbatch,Keira Knightley,2,8,685201,348058163,2025-06-13
+C0340,I0340,8,76,James Gunn,Chris Pratt,Vin Diesel,1,6,1043455,137796113,2025-05-04
+C0341,I0341,8,81,Denis Villeneuve,Harrison Ford,Ryan Gosling,0,17,461823,122578464,2025-03-19
+C0342,I0342,8,90,Spike Jonze,Joaquin Phoenix,Amy Adams,6,20,540772,325342506,2025-04-18
+C0343,I0343,8,49,Bryan Singer,Rami Malek,Lucy Boynton,8,15,450349,58165052,2025-03-25
+C0344,I0344,8,76,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,7,13,705589,206873922,2025-03-17
+C0345,I0345,8,67,Stephen Chbosky,Logan Lerman,Emma Watson,7,25,462252,390992642,2025-06-05
+C0346,I0346,8,71,José Padilha,Wagner Moura,Irandhir Santos,0,20,79200,20203267,2025-06-19
+C0347,I0347,8,88,Tom Hooper,Colin Firth,Geoffrey Rush,10,19,639603,318831771,2025-04-22
+C0348,I0348,8,62,Tate Taylor,Emma Stone,Viola Davis,6,11,428521,35534565,2025-05-19
+C0349,I0349,8,65,Tim Miller,Ryan Reynolds,Morena Baccarin,5,16,902669,70542467,2025-04-24
+C0350,I0350,8,87,Asghar Farhadi,Golshifteh Farahani,Shahab Hosseini,9,11,45803,190106142,2025-03-08
+C0351,I0351,8,39,Anurag Kashyap,Abhay Deol,Mahie Gill,7,13,28749,434804511,2025-06-21
+C0352,I0352,8,59,Wilson Yip,Donnie Yen,Simon Yam,5,15,211427,366270873,2025-06-16
+C0353,I0353,8,50,Karan Johar,Shah Rukh Khan,Kajol,1,17,98575,218380669,2025-01-02
+C0354,I0354,8,50,Levent Semerci,Erdem Can,Mete Horozoglu,7,15,31838,322256305,2025-03-12
+C0355,I0355,8,84,Danny Boyle,Loveleen Tandan,Dev Patel,0,10,798882,319245363,2025-05-07
+C0356,I0356,8,79,Darren Aronofsky,Natalie Portman,Mila Kunis,4,25,699673,359976007,2025-05-24
+C0357,I0357,8,33,José Padilha,Wagner Moura,André Ramiro,10,21,98097,428182542,2025-06-05
+C0358,I0358,8,69,Joss Whedon,Robert Downey Jr.,Chris Evans,5,15,1260806,163175396,2025-05-20
+C0359,I0359,8,90,Vincent Paronnaud,Marjane Satrapi,Chiara Mastroianni,5,19,88656,166399678,2025-03-04
+C0360,I0360,8,80,Jean-Marc Vallée,Matthew McConaughey,Jennifer Garner,1,14,441614,345390125,2025-03-08
+C0361,I0361,8,64,Gabriele Muccino,Will Smith,Thandie Newton,9,16,448930,170509784,2025-04-25
+C0362,I0362,8,64,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,10,8,499439,25728644,2025-02-08
+C0363,I0363,8,85,Paul Greengrass,Matt Damon,Edgar Ramírez,2,20,604694,345554002,2025-04-10
+C0364,I0364,8,72,Ki-duk Kim,Seung-Yun Lee,Hee Jae,3,24,50610,372750166,2025-03-18
+C0365,I0365,8,74,Frank Miller,Quentin Tarantino,Robert Rodriguez,6,16,738512,177085217,2025-06-16
+C0366,I0366,8,92,Julian Schnabel,Laura Obiols,Mathieu Amalric,7,10,103284,421861543,2025-02-10
+C0367,I0367,8,100,Ömer Faruk Sorak,Cem Yilmaz,Özge Özberk,3,20,56960,443227957,2025-01-01
+C0368,I0368,8,96,Brad Bird,Jan Pinkava,Brad Garrett,5,20,641645,415385179,2025-06-18
+C0369,I0369,8,80,Martin Campbell,Daniel Craig,Eva Green,10,24,582239,215715787,2025-03-01
+C0370,I0370,8,83,Quentin Tarantino,Uma Thurman,David Carradine,6,8,683900,353000291,2025-05-25
+C0371,I0371,8,82,Andrey Zvyagintsev,Vladimir Garin,Ivan Dobronravov,3,12,42399,40790258,2025-03-26
+C0372,I0372,8,85,Ki-duk Kim,Ki-duk Kim,Yeong-su Oh,1,24,77520,120222975,2025-03-25
+C0373,I0373,8,74,Alejandro Amenábar,Javier Bardem,Belén Rueda,9,19,77554,90327025,2025-01-05
+C0374,I0374,8,69,Ron Howard,Russell Crowe,Renée Zellweger,1,16,176151,164732065,2025-05-21
+C0375,I0375,8,54,Nikkhil Advani,Preity Zinta,Shah Rukh Khan,4,25,63460,18052729,2025-05-15
+C0376,I0376,8,75,Andrew Lau,Alan Mak,Andy Lau,5,12,117857,362652687,2025-06-27
+C0377,I0377,8,63,Gore Verbinski,Johnny Depp,Geoffrey Rush,8,11,1015122,50282076,2025-06-12
+C0378,I0378,8,58,Tim Burton,Ewan McGregor,Albert Finney,3,10,415218,476912121,2025-01-07
+C0379,I0379,8,90,Brad Bird,Craig T. Nelson,Samuel L. Jackson,7,6,657047,215496059,2025-04-01
+C0380,I0380,8,64,Jae-young Kwak,Tae-Hyun Cha,Jun Ji-Hyun,2,15,45403,325721315,2025-05-23
+C0381,I0381,8,60,Lars von Trier,Nicole Kidman,Paul Bettany,1,25,137963,232885460,2025-01-06
+C0382,I0382,8,64,Yilmaz Erdogan,Ömer Faruk Sorak,Yilmaz Erdogan,2,7,33592,146102051,2025-04-29
+C0383,I0383,8,88,Richard Kelly,Jake Gyllenhaal,Jena Malone,3,17,740086,452647435,2025-01-06
+C0384,I0384,8,77,Paul Thomas Anderson,Tom Cruise,Jason Robards,2,6,289742,267328636,2025-06-11
+C0385,I0385,8,61,Lars von Trier,Björk,Catherine Deneuve,4,17,102285,238605325,2025-04-20
+C0386,I0386,8,86,David Lynch,Richard Farnsworth,Sissy Spacek,5,14,82002,146170353,2025-03-28
+C0387,I0387,8,47,Satoshi Kon,Junko Iwao,Rica Matsumoto,6,11,58192,356295781,2025-04-26
+C0388,I0388,8,82,Thomas Vinterberg,Ulrich Thomsen,Henning Moritzen,9,13,78341,275252274,2025-03-23
+C0389,I0389,8,80,Walter Salles,Fernanda Montenegro,Vinícius de Oliveira,8,15,36419,141851871,2025-04-02
+C0390,I0390,8,85,Brad Bird,Eli Marienthal,Harry Connick Jr.,5,14,172083,18633027,2025-01-04
+C0391,I0391,8,50,Thomas Jahn,Til Schweiger,Jan Josef Liefers,8,11,27721,223117187,2025-03-04
+C0392,I0392,8,84,Billy Bob Thornton,Billy Bob Thornton,Dwight Yoakam,5,17,86838,179927146,2025-05-12
+C0393,I0393,8,91,Mike Leigh,Timothy Spall,Brenda Blethyn,5,8,37564,297733298,2025-03-20
+C0394,I0394,8,74,Terry Gilliam,Bruce Willis,Madeleine Stowe,0,12,578443,75543257,2025-05-12
+C0395,I0395,8,76,Mamoru Oshii,Atsuko Tanaka,Iemasa Kayumi,5,10,129231,78238304,2025-03-10
+C0396,I0396,8,82,Henry Selick,Danny Elfman,Chris Sarandon,1,5,300208,93833301,2025-06-19
+C0397,I0397,8,72,Harold Ramis,Bill Murray,Andie MacDowell,0,9,577991,238312198,2025-03-13
+C0398,I0398,8,47,Taylor Hackford,Damian Chapa,Jesse Borrego,7,17,28825,454756713,2025-02-03
+C0399,I0399,8,59,Martin Brest,Al Pacino,Chris O'Donnell,9,14,263918,170232890,2025-06-18
+C0400,I0400,8,86,Ron Clements,John Musker,Scott Weinger,4,24,373845,450760480,2025-06-22
+C0401,I0401,8,72,Oliver Stone,Kevin Costner,Gary Oldman,6,15,142110,473507701,2025-04-29
+C0402,I0402,8,95,Gary Trousdale,Kirk Wise,Paige O'Hara,10,8,417178,389910678,2025-01-01
+C0403,I0403,8,72,Kevin Costner,Kevin Costner,Mary McDonnell,0,9,240266,298551906,2025-04-10
+C0404,I0404,8,93,Spike Lee,Danny Aiello,Ossie Davis,5,5,89429,381441327,2025-05-16
+C0405,I0405,8,65,Barry Levinson,Dustin Hoffman,Tom Cruise,4,15,473064,134093242,2025-04-22
+C0406,I0406,8,31,Katsuhiro Ôtomo,Mitsuo Iwata,Nozomu Sasaki,2,12,164918,469258594,2025-01-17
+C0407,I0407,8,77,Rob Reiner,Cary Elwes,Mandy Patinkin,4,18,393899,373055262,2025-06-01
+C0408,I0408,8,79,Wim Wenders,Bruno Ganz,Solveig Dommartin,8,8,64722,323785225,2025-02-04
+C0409,I0409,8,88,Louis Malle,Gaspard Manesse,Raphael Fejtö,7,16,31163,458241289,2025-03-11
+C0410,I0410,8,78,Hayao Miyazaki,Mayumi Tanaka,Keiko Yokozawa,0,10,150140,359734906,2025-01-08
+C0411,I0411,8,84,James Cameron,Arnold Schwarzenegger,Linda Hamilton,4,5,799795,75338808,2025-01-17
+C0412,I0412,8,79,Richard Attenborough,Ben Kingsley,John Gielgud,3,13,217664,459819096,2025-01-03
+C0413,I0413,8,84,Akira Kurosawa,Tatsuya Nakadai,Tsutomu Yamazaki,1,13,32195,13027923,2025-05-28
+C0414,I0414,8,83,Hal Ashby,Peter Sellers,Shirley MacLaine,7,17,65625,202518578,2025-06-19
+C0415,I0415,8,92,Woody Allen,Woody Allen,Diane Keaton,6,8,251823,135362899,2025-04-07
+C0416,I0416,8,87,Steven Spielberg,Roy Scheider,Robert Shaw,5,11,543388,294588460,2025-04-30
+C0417,I0417,8,86,Sidney Lumet,Al Pacino,John Cazale,6,19,235652,69793229,2025-06-17
+C0418,I0418,8,80,Mel Brooks,Gene Wilder,Madeline Kahn,0,24,143359,286050845,2025-01-20
+C0419,I0419,8,58,Franklin J. Schaffner,Steve McQueen,Dustin Hoffman,2,12,121627,373540533,2025-03-24
+C0420,I0420,8,81,William Friedkin,Ellen Burstyn,Max von Sydow,5,22,362393,59336111,2025-06-08
+C0421,I0421,8,35,Joseph L. Mankiewicz,Laurence Olivier,Michael Caine,4,14,44748,218129020,2025-05-30
+C0422,I0422,8,93,Peter Bogdanovich,Timothy Bottoms,Jeff Bridges,6,10,42456,203227282,2025-01-15
+C0423,I0423,8,67,Norman Jewison,Topol,Norma Crane,0,19,39491,257793565,2025-04-23
+C0424,I0424,8,100,Bernardo Bertolucci,Jean-Louis Trintignant,Stefania Sandrelli,0,19,27067,312483039,2025-01-13
+C0425,I0425,8,66,George Roy Hill,Paul Newman,Robert Redford,1,25,201888,293915226,2025-05-19
+C0426,I0426,8,96,Roman Polanski,Mia Farrow,John Cassavetes,2,14,193674,32347857,2025-04-10
+C0427,I0427,8,79,Franklin J. Schaffner,Charlton Heston,Roddy McDowall,5,10,165167,307319759,2025-02-07
+C0428,I0428,8,83,Mike Nichols,Dustin Hoffman,Anne Bancroft,5,5,253676,163078850,2025-06-17
+C0429,I0429,8,75,Mike Nichols,Elizabeth Taylor,Richard Burton,0,14,68926,243033682,2025-03-13
+C0430,I0430,8,63,Robert Wise,Julie Andrews,Christopher Plummer,7,13,205425,114316145,2025-01-11
+C0431,I0431,8,69,David Lean,Omar Sharif,Julie Christie,0,20,69903,139772591,2025-04-13
+C0432,I0432,8,65,Sergio Leone,Clint Eastwood,Gian Maria Volontè,4,16,198219,307255467,2025-06-18
+C0433,I0433,8,91,Federico Fellini,Marcello Mastroianni,Anouk Aimée,4,22,108844,445951238,2025-04-15
+C0434,I0434,8,67,Jean-Luc Godard,Anna Karina,Sady Rebbot,10,23,28057,421924572,2025-01-24
+C0435,I0435,8,90,Robert Rossen,Paul Newman,Jackie Gleason,6,15,75067,423720439,2025-01-03
+C0436,I0436,8,95,Federico Fellini,Marcello Mastroianni,Anita Ekberg,10,23,66621,476645541,2025-05-19
+C0437,I0437,8,93,Howard Hawks,John Wayne,Dean Martin,4,11,56305,253560288,2025-06-12
+C0438,I0438,8,95,Otto Preminger,James Stewart,Lee Remick,6,19,59847,440508298,2025-02-11
+C0439,I0439,8,99,Orson Welles,Charlton Heston,Orson Welles,5,18,98431,367182168,2025-01-13
+C0440,I0440,8,84,Richard Brooks,Elizabeth Taylor,Paul Newman,4,19,45062,418108060,2025-04-08
+C0441,I0441,8,100,Alexander Mackendrick,Burt Lancaster,Tony Curtis,9,5,28137,203119752,2025-04-15
+C0442,I0442,8,91,Stanley Kubrick,Sterling Hayden,Coleen Gray,8,13,81702,353702563,2025-01-05
+C0443,I0443,8,99,Charles Laughton,Robert Mitchum,Shelley Winters,5,19,81980,333180465,2025-06-23
+C0444,I0444,8,25,Federico Fellini,Anthony Quinn,Giulietta Masina,0,18,58314,142928422,2025-06-19
+C0445,I0445,8,44,Henri-Georges Clouzot,Simone Signoret,Véra Clouzot,4,5,61503,90059720,2025-06-20
+C0446,I0446,8,84,Billy Wilder,William Holden,Don Taylor,7,9,51046,289219852,2025-02-16
+C0447,I0447,8,78,William Wyler,Gregory Peck,Audrey Hepburn,0,10,127256,294872462,2025-06-11
+C0448,I0448,8,97,Elia Kazan,Vivien Leigh,Marlon Brando,5,23,99182,126013910,2025-02-19
+C0449,I0449,8,87,Nicholas Ray,Humphrey Bogart,Gloria Grahame,10,15,26784,1760239,2025-06-13
+C0450,I0450,8,74,Robert Hamer,Dennis Price,Alec Guinness,2,14,34485,410168788,2025-01-21
+C0451,I0451,8,73,Alfred Hitchcock,James Stewart,John Dall,8,24,129783,130310755,2025-01-30
+C0452,I0452,8,98,Jacques Tourneur,Robert Mitchum,Jane Greer,10,5,32784,441964859,2025-05-16
+C0453,I0453,8,92,David Lean,Celia Johnson,Trevor Howard,7,5,35601,146002938,2025-03-31
+C0454,I0454,8,71,Otto Preminger,Gene Tierney,Dana Andrews,3,20,42725,28794229,2025-01-17
+C0455,I0455,8,93,William Wyler,Myrna Loy,Dana Andrews,0,15,57259,45061625,2025-01-11
+C0456,I0456,8,85,Frank Capra,Cary Grant,Priscilla Lane,4,20,65101,178974953,2025-01-04
+C0457,I0457,8,96,John Huston,Humphrey Bogart,Mary Astor,9,25,148928,23630667,2025-04-08
+C0458,I0458,8,96,John Ford,Henry Fonda,Jane Darwell,10,14,85559,103785179,2025-05-25
+C0459,I0459,8,92,Victor Fleming,George Cukor,Mervyn LeRoy,5,18,371379,367478192,2025-06-16
+C0460,I0460,8,44,Jean Renoir,Marcel Dalio,Nora Gregor,8,10,26725,377650992,2025-02-28
+C0461,I0461,8,86,W.S. Van Dyke,William Powell,Myrna Loy,3,25,26642,161423229,2025-01-11
+C0462,I0462,8,91,Lewis Milestone,Lew Ayres,Louis Wolheim,10,21,57318,3893178,2025-05-24
+C0463,I0463,8,97,Sergei M. Eisenstein,Aleksandr Antonov,Vladimir Barskiy,2,24,53054,99375698,2025-03-17
+C0464,I0464,7.9,82,Rian Johnson,Daniel Craig,Chris Evans,2,12,454203,84831688,2025-03-31
+C0465,I0465,7.9,63,Mukesh Chhabra,Sushant Singh Rajput,Sanjana Sanghi,6,21,111478,346721661,2025-03-04
+C0466,I0466,7.9,93,Hirokazu Koreeda,Lily Franky,Sakura Andô,1,11,62754,220466625,2025-05-29
+C0467,I0467,7.9,94,Noah Baumbach,Adam Driver,Scarlett Johansson,4,9,246644,401698864,2025-05-26
+C0468,I0468,7.9,93,Luca Guadagnino,Armie Hammer,Timothée Chalamet,5,12,212651,101667832,2025-03-19
+C0469,I0469,7.9,78,Ken Loach,Laura Obiols,Dave Johns,2,17,53818,200229993,2025-04-23
+C0470,I0470,7.9,82,Wes Anderson,Bryan Cranston,Koyu Rankin,8,14,139114,103603661,2025-06-18
+C0471,I0471,7.9,81,Taika Waititi,Sam Neill,Julian Dennison,1,18,111483,65784227,2025-01-13
+C0472,I0472,7.9,72,Matt Ross,Viggo Mortensen,George MacKay,8,19,189400,288734959,2025-01-24
+C0473,I0473,7.9,79,John Carney,Ferdia Walsh-Peelo,Aidan Gillen,9,13,85109,475556482,2025-04-22
+C0474,I0474,7.9,74,Taika Waititi,Chris Hemsworth,Tom Hiddleston,1,8,587775,474484062,2025-05-12
+C0475,I0475,7.9,76,Dan Gilroy,Jake Gyllenhaal,Rene Russo,7,18,466134,120687082,2025-03-28
+C0476,I0476,7.9,58,Taika Waititi,Roman Griffin Davis,Thomasin McKenzie,0,10,297918,132248565,2025-06-18
+C0477,I0477,7.9,81,Denis Villeneuve,Amy Adams,Jeremy Renner,4,14,594181,228645215,2025-02-20
+C0478,I0478,7.9,80,J.J. Abrams,Daisy Ridley,John Boyega,3,7,860823,458122694,2025-05-12
+C0479,I0479,7.9,94,Richard Linklater,Ethan Hawke,Julie Delpy,6,19,141457,231827657,2025-02-12
+C0480,I0480,7.9,75,Bryan Singer,Patrick Stewart,Ian McKellen,4,16,659763,154437806,2025-03-17
+C0481,I0481,7.9,82,Nuri Bilge Ceylan,Muhammet Uzuner,Yilmaz Erdogan,4,12,41995,193354689,2025-06-23
+C0482,I0482,7.9,89,Michel Hazanavicius,Jean Dujardin,Bérénice Bejo,4,14,230624,95393808,2025-02-05
+C0483,I0483,7.9,71,Doug Liman,Tom Cruise,Emily Blunt,3,16,600004,402692268,2025-06-11
+C0484,I0484,7.9,94,Michael Haneke,Jean-Louis Trintignant,Emmanuelle Riva,4,6,93090,465423163,2025-02-23
+C0485,I0485,7.9,94,Martin Scorsese,Robert De Niro,Al Pacino,7,21,324720,376800619,2025-06-08
+C0486,I0486,7.9,90,Jacques Audiard,Tahar Rahim,Niels Arestrup,4,25,93560,221687487,2025-04-22
+C0487,I0487,7.9,67,Duncan Jones,Sam Rockwell,Kevin Spacey,0,18,335152,107601378,2025-06-21
+C0488,I0488,7.9,82,Tomas Alfredson,Kåre Hedebrant,Lina Leandersson,6,24,205609,151532879,2025-05-17
+C0489,I0489,7.9,81,Neill Blomkamp,Sharlto Copley,David James,7,7,638202,308288398,2025-03-04
+C0490,I0490,7.9,80,Darren Aronofsky,Mickey Rourke,Marisa Tomei,0,25,289415,267678635,2025-06-26
+C0491,I0491,7.9,81,Imtiaz Ali,Shahid Kapoor,Kareena Kapoor,4,13,47720,367180753,2025-06-02
+C0492,I0492,7.9,100,Richard Linklater,Ellar Coltrane,Patricia Arquette,3,7,335533,306961507,2025-06-19
+C0493,I0493,7.9,97,Cristian Mungiu,Anamaria Marinca,Laura Vasiliu,0,6,56625,58971122,2025-04-06
+C0494,I0494,7.9,82,J.J. Abrams,Chris Pine,Zachary Quinto,6,17,577336,196182411,2025-02-03
+C0495,I0495,7.9,67,Martin McDonagh,Colin Farrell,Brendan Gleeson,4,9,390334,472623347,2025-04-17
+C0496,I0496,7.9,57,Richard Schenkman,David Lee Smith,Tony Todd,9,19,174125,156377431,2025-04-18
+C0497,I0497,7.9,89,Clint Eastwood,Ken Watanabe,Kazunari Ninomiya,4,22,154011,463737860,2025-05-12
+C0498,I0498,7.9,64,Tarsem Singh,Lee Pace,Catinca Untaru,7,20,107290,333848136,2025-06-19
+C0499,I0499,7.9,79,Ang Lee,Suraj Sharma,Irrfan Khan,8,5,580708,449493142,2025-03-15
+C0500,I0500,7.9,83,Wes Anderson,George Clooney,Meryl Streep,0,17,199696,161646119,2025-01-11
+C0501,I0501,7.9,81,Jean-Marc Vallée,Michel Côté,Marc-André Grondin,7,22,31476,320578661,2025-05-12
+C0502,I0502,7.9,56,Christophe Barratier,Gérard Jugnot,François Berléand,9,17,57430,147883425,2025-03-16
+C0503,I0503,7.9,79,Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,10,6,939644,36097762,2025-04-30
+C0504,I0504,7.9,76,Edgar Wright,Simon Pegg,Nick Frost,0,6,512249,443861147,2025-05-13
+C0505,I0505,7.9,78,Fatih Akin,Birol Ünel,Sibel Kekilli,0,15,51325,297835577,2025-02-17
+C0506,I0506,7.9,84,Clint Eastwood,Sean Penn,Tim Robbins,6,6,419420,182503917,2025-04-11
+C0507,I0507,7.9,82,Alfonso Cuarón,Daniel Radcliffe,Emma Watson,6,6,552493,349954914,2025-03-02
+C0508,I0508,7.9,85,Yimou Zhang,Jet Li,Tony Chiu-Wai Leung,10,21,173999,60005694,2025-04-21
+C0509,I0509,7.9,86,Pedro Almodóvar,Rosario Flores,Javier Cámara,6,16,104691,337740770,2025-01-24
+C0510,I0510,7.9,84,Danis Tanovic,Branko Djuric,Rene Bitorajac,7,5,44618,139044992,2025-03-07
+C0511,I0511,7.9,61,Shin'ichirô Watanabe,Tensai Okamura,Hiroyuki Okiura,8,5,42897,391363091,2025-03-11
+C0512,I0512,7.9,68,Doug Liman,Franka Potente,Matt Damon,8,5,508771,404977526,2025-02-16
+C0513,I0513,7.9,80,Fabián Bielinsky,Ricardo Darín,Gastón Pauls,0,10,49721,124376215,2025-03-08
+C0514,I0514,7.9,84,Alfonso Cuarón,Julianne Moore,Clive Owen,2,16,465113,121671187,2025-03-19
+C0515,I0515,7.9,90,Cameron Crowe,Billy Crudup,Patrick Fugit,4,6,252586,230149990,2025-02-11
+C0516,I0516,7.9,85,David Lynch,Naomi Watts,Laura Harring,4,18,322031,117080009,2025-06-26
+C0517,I0517,7.9,88,John Lasseter,Ash Brannon,Lee Unkrich,9,19,527512,136372617,2025-06-09
+C0518,I0518,7.9,85,Paul Thomas Anderson,Mark Wahlberg,Julianne Moore,4,20,239473,248994524,2025-06-27
+C0519,I0519,7.9,75,Yoshifumi Kondô,Yoko Honna,Issey Takahashi,3,11,51943,98695648,2025-01-11
+C0520,I0520,7.9,77,Lee Tamahori,Rena Owen,Temuera Morrison,2,7,31590,287885476,2025-04-15
+C0521,I0521,7.9,59,Tony Scott,Christian Slater,Patricia Arquette,0,24,206918,359999872,2025-04-01
+C0522,I0522,7.9,85,Krzysztof Kieslowski,Juliette Binoche,Zbigniew Zamachowski,4,5,89836,347093491,2025-04-05
+C0523,I0523,7.9,37,Yoshiaki Kawajiri,Kôichi Yamadera,Emi Shinohara,1,6,34529,309521105,2025-04-17
+C0524,I0524,7.9,65,Brian De Palma,Al Pacino,Sean Penn,2,23,201000,42923495,2025-03-18
+C0525,I0525,7.9,74,Tim Burton,Johnny Depp,Winona Ryder,9,17,447368,329687181,2025-01-10
+C0526,I0526,7.9,97,Jim Sheridan,Daniel Day-Lewis,Brenda Fricker,1,12,68076,143355609,2025-01-12
+C0527,I0527,7.9,77,Woody Allen,Martin Landau,Woody Allen,2,17,54670,134683090,2025-01-13
+C0528,I0528,7.9,79,Brian De Palma,Kevin Costner,Sean Connery,7,6,281842,7686834,2025-05-08
+C0529,I0529,7.9,90,Woody Allen,Mia Farrow,Dianne Wiest,7,23,67176,468984335,2025-05-01
+C0530,I0530,7.9,84,Terry Gilliam,Jonathan Pryce,Kim Greist,1,13,187567,163803514,2025-01-30
+C0531,I0531,7.9,92,Rob Reiner,Rob Reiner,Michael McKean,9,14,128812,346622204,2025-03-28
+C0532,I0532,7.9,77,Bob Clark,Peter Billingsley,Melinda Dillon,5,13,132947,115947851,2025-03-04
+C0533,I0533,7.9,60,John Landis,John Belushi,Dan Aykroyd,8,22,183182,392221325,2025-01-10
+C0534,I0534,7.9,83,Woody Allen,Woody Allen,Diane Keaton,4,10,131436,35814504,2025-02-18
+C0535,I0535,7.9,72,Bob Fosse,Roy Scheider,Jessica Lange,10,18,28223,264804356,2025-01-07
+C0536,I0536,7.9,71,George A. Romero,David Emge,Ken Foree,2,19,111512,125500107,2025-05-29
+C0537,I0537,7.9,84,Alan J. Pakula,Dustin Hoffman,Robert Redford,9,13,103031,394441743,2025-04-02
+C0538,I0538,7.9,76,Alejandro Jodorowsky,Alejandro Jodorowsky,Horacio Salinas,7,14,37183,185858409,2025-05-09
+C0539,I0539,7.9,34,Federico Fellini,Magali Noël,Bruno Zanin,7,13,39897,391350641,2025-06-28
+C0540,I0540,7.9,93,Luis Buñuel,Fernando Rey,Delphine Seyrig,3,20,38737,471941919,2025-03-03
+C0541,I0541,7.9,63,Werner Herzog,Klaus Kinski,Ruy Guerra,6,16,52397,219410051,2025-03-28
+C0542,I0542,7.9,62,Hal Ashby,Ruth Gordon,Bud Cort,1,15,70826,301613212,2025-05-26
+C0543,I0543,7.9,91,Franklin J. Schaffner,George C. Scott,Karl Malden,4,25,93741,373461992,2025-01-29
+C0544,I0544,7.9,97,Sam Peckinpah,William Holden,Ernest Borgnine,9,8,77401,190805055,2025-01-28
+C0545,I0545,7.9,89,George A. Romero,Duane Jones,Judith O'Dea,7,10,116557,53815862,2025-01-29
+C0546,I0546,7.9,77,Anthony Harvey,Peter O'Toole,Katharine Hepburn,6,13,29003,276517244,2025-01-24
+C0547,I0547,7.9,75,Norman Jewison,Sidney Poitier,Rod Steiger,4,12,67804,12678233,2025-05-24
+C0548,I0548,7.9,83,Stanley Donen,Cary Grant,Audrey Hepburn,5,11,68689,28636684,2025-06-03
+C0549,I0549,7.9,94,John Frankenheimer,Frank Sinatra,Laurence Harvey,3,19,71122,318382736,2025-03-12
+C0550,I0550,7.9,87,Stanley Kubrick,Kirk Douglas,Laurence Olivier,8,18,124339,416732873,2025-03-31
+C0551,I0551,7.9,47,Michelangelo Antonioni,Gabriele Ferzetti,Monica Vitti,8,22,26542,256210506,2025-01-16
+C0552,I0552,7.9,25,Alain Resnais,Emmanuelle Riva,Eiji Okada,10,25,28421,162622155,2025-01-04
+C0553,I0553,7.9,58,Cecil B. DeMille,Charlton Heston,Yul Brynner,4,22,63560,435656248,2025-03-28
+C0554,I0554,7.9,94,John Ford,John Wayne,Jeffrey Hunter,0,23,80316,414831211,2025-06-16
+C0555,I0555,7.9,72,Elia Kazan,James Dean,Raymond Massey,4,23,40313,185594504,2025-01-11
+C0556,I0556,7.9,89,Fred Zinnemann,Gary Cooper,Grace Kelly,2,16,97222,367746481,2025-06-10
+C0557,I0557,7.9,88,Alfred Hitchcock,Farley Granger,Robert Walker,3,18,123341,288738602,2025-02-10
+C0558,I0558,7.9,42,Henry Koster,James Stewart,Wallace Ford,8,16,52573,439351292,2025-05-07
+C0559,I0559,7.9,88,George Seaton,Edmund Gwenn,Maureen O'Hara,7,23,41625,286483444,2025-03-09
+C0560,I0560,7.9,100,Alfred Hitchcock,Cary Grant,Ingrid Bergman,5,8,92306,390433699,2025-05-06
+C0561,I0561,7.9,80,Howard Hawks,Humphrey Bogart,Lauren Bacall,3,5,78796,20269010,2025-03-30
+C0562,I0562,7.9,62,Billy Wilder,Ray Milland,Jane Wyman,4,8,33549,122617605,2025-06-05
+C0563,I0563,7.9,96,George Cukor,Cary Grant,Katharine Hepburn,1,22,63550,310786979,2025-06-24
+C0564,I0564,7.9,49,Howard Hawks,Cary Grant,Rosalind Russell,10,20,53667,294008154,2025-06-24
+C0565,I0565,7.9,97,Michael Curtiz,William Keighley,Errol Flynn,7,20,47175,54506847,2025-01-06
+C0566,I0566,7.9,45,Sam Wood,Edmund Goulding,Groucho Marx,9,10,30580,187943157,2025-01-01
+C0567,I0567,7.9,90,Merian C. Cooper,Ernest B. Schoedsack,Fay Wray,4,11,78991,10299667,2025-03-25
+C0568,I0568,7.9,80,Tod Browning,Wallace Ford,Leila Hyams,4,16,42117,164274061,2025-02-22
+C0569,I0569,7.9,49,F.W. Murnau,Max Schreck,Alexander Granach,9,11,88794,81901417,2025-06-12
+C0570,I0570,7.8,51,Guy Ritchie,Matthew McConaughey,Charlie Hunnam,7,7,237392,60448817,2025-05-02
+C0571,I0571,7.8,83,Meghna Gulzar,Alia Bhatt,Vicky Kaushal,1,21,25344,142777167,2025-05-21
+C0572,I0572,7.8,81,Darius Marder,Riz Ahmed,Olivia Cooke,6,15,27187,127770582,2025-06-20
+C0573,I0573,7.8,85,Asghar Farhadi,Shahab Hosseini,Taraneh Alidoosti,9,11,51240,75789274,2025-03-16
+C0574,I0574,7.8,94,Christopher Nolan,Fionn Whitehead,Barry Keoghan,1,25,555092,333432641,2025-02-28
+C0575,I0575,7.8,48,Paolo Genovese,Giuseppe Battiston,Anna Foglietta,3,20,57168,125640177,2025-04-17
+C0576,I0576,7.8,74,Theodore Melfi,Taraji P. Henson,Octavia Spencer,9,25,200876,473878240,2025-04-14
+C0577,I0577,7.8,88,Paul King,Ben Whishaw,Hugh Grant,7,25,61594,182091899,2025-03-14
+C0578,I0578,7.8,65,Abhishek Chaubey,Shahid Kapoor,Alia Bhatt,0,24,27175,368211272,2025-02-25
+C0579,I0579,7.8,84,Travis Knight,Charlize Theron,Art Parkinson,3,5,118035,243704739,2025-02-09
+C0580,I0580,7.8,74,Neeraj Pandey,Sushant Singh Rajput,Kiara Advani,5,11,40416,408641970,2025-05-23
+C0581,I0581,7.8,96,Kenneth Lonergan,Casey Affleck,Michelle Williams,5,17,246963,425962170,2025-03-25
+C0582,I0582,7.8,75,Martin Zandvliet,Roland Møller,Louis Hofmann,10,9,35539,127778346,2025-04-04
+C0583,I0583,7.8,65,Gareth Edwards,Felicity Jones,Diego Luna,3,6,556608,409364548,2025-03-29
+C0584,I0584,7.8,75,Anthony Russo,Joe Russo,Chris Evans,7,12,663649,13515011,2025-05-26
+C0585,I0585,7.8,68,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,9,24,517059,97650044,2025-06-09
+C0586,I0586,7.8,91,Greta Gerwig,Saoirse Ronan,Emma Watson,6,14,143250,72092249,2025-05-04
+C0587,I0587,7.8,62,Dorota Kobiela,Hugh Welchman,Douglas Booth,6,18,50778,76807066,2025-01-14
+C0588,I0588,7.8,79,Matthew Warchus,Bill Nighy,Imelda Staunton,1,14,51841,373016410,2025-01-06
+C0589,I0589,7.8,85,Asghar Farhadi,Bérénice Bejo,Tahar Rahim,1,15,45002,100996188,2025-06-07
+C0590,I0590,7.8,86,Paolo Sorrentino,Toni Servillo,Carlo Verdone,6,5,81125,96284751,2025-03-01
+C0591,I0591,7.8,76,Ritesh Batra,Irrfan Khan,Nimrat Kaur,6,25,50523,146694894,2025-01-14
+C0592,I0592,7.8,56,Shoojit Sircar,Ayushmann Khurrana,Yami Gautam,4,16,39710,117849686,2025-06-13
+C0593,I0593,7.8,74,Don Hall,Chris Williams,Ryan Potter,3,23,410983,316021857,2025-05-19
+C0594,I0594,7.8,55,Richard Curtis,Domhnall Gleeson,Rachel McAdams,1,13,303032,286079009,2025-03-10
+C0595,I0595,7.8,44,Gauri Shinde,Sridevi,Adil Hussain,8,16,33618,356976320,2025-04-13
+C0596,I0596,7.8,83,Hayao Miyazaki,Hideaki Anno,Hidetoshi Nishijima,4,25,73690,263100710,2025-01-07
+C0597,I0597,7.8,84,Josh Cooley,Tom Hanks,Tim Allen,9,23,203177,196468258,2025-06-06
+C0598,I0598,7.8,49,Giuseppe Tornatore,Geoffrey Rush,Jim Sturgess,8,7,108399,63213335,2025-01-18
+C0599,I0599,7.8,84,Wes Anderson,Jared Gilman,Kara Hayward,0,7,318789,460061417,2025-02-08
+C0600,I0600,7.8,76,Dean DeBlois,Jay Baruchel,Cate Blanchett,6,12,305611,107907138,2025-06-07
+C0601,I0601,7.8,81,Adam McKay,Christian Bale,Steve Carell,9,13,362942,245485634,2025-04-06
+C0602,I0602,7.8,63,Tetsuya Nakashima,Takako Matsu,Yoshino Kimura,1,23,35713,341245763,2025-03-30
+C0603,I0603,7.8,67,Jee-woon Kim,Lee Byung-Hun,Choi Min-sik,9,17,111252,220890362,2025-03-07
+C0604,I0604,7.8,71,David Fincher,Daniel Craig,Rooney Mara,3,9,423010,95190393,2025-03-06
+C0605,I0605,7.8,82,Paul Greengrass,Tom Hanks,Barkhad Abdi,3,14,421244,221039150,2025-03-03
+C0606,I0606,7.8,74,Jeong-beom Lee,Won Bin,Sae-ron Kim,10,20,62848,398469979,2025-03-10
+C0607,I0607,7.8,72,F. Gary Gray,O'Shea Jackson Jr.,Corey Hawkins,6,25,179264,339467402,2025-06-15
+C0608,I0608,7.8,79,Bong Joon Ho,Hye-ja Kim,Won Bin,8,17,52758,202061974,2025-02-18
+C0609,I0609,7.8,64,Hong-jin Na,Kim Yoon-seok,Jung-woo Ha,3,9,58468,169172585,2025-02-12
+C0610,I0610,7.8,66,Peter Jackson,Ian McKellen,Martin Freeman,4,19,601408,126297127,2025-02-14
+C0611,I0611,7.8,82,Michael Haneke,Christian Friedel,Ernst Jacobi,2,10,68715,390954771,2025-05-12
+C0612,I0612,7.8,76,Niels Arden Oplev,Michael Nyqvist,Noomi Rapace,8,7,208994,397658788,2025-02-18
+C0613,I0613,7.8,77,Aaron Sorkin,Eddie Redmayne,Alex Sharp,9,6,89896,140646983,2025-01-22
+C0614,I0614,7.8,81,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,9,13,33931,152971445,2025-04-03
+C0615,I0615,7.8,79,David O. Russell,Mark Wahlberg,Christian Bale,1,15,340584,412744483,2025-01-27
+C0616,I0616,7.8,51,Pierre Morel,Liam Neeson,Maggie Grace,9,15,564791,22203283,2025-06-23
+C0617,I0617,7.8,55,Mark Herman,Asa Butterfield,David Thewlis,6,8,190748,302161209,2025-04-26
+C0618,I0618,7.8,88,John Carney,Glen Hansard,Markéta Irglová,5,5,110656,278503754,2025-01-04
+C0619,I0619,7.8,58,Peter Jackson,Martin Freeman,Ian McKellen,4,10,757377,352201433,2025-02-17
+C0620,I0620,7.8,85,Fatih Akin,Baki Davrak,Nurgül Yesilçay,10,17,30827,293046409,2025-01-08
+C0621,I0621,7.8,85,Joe Wright,Keira Knightley,James McAvoy,8,22,251370,179802815,2025-03-23
+C0622,I0622,7.8,78,Nicolas Winding Refn,Ryan Gosling,Carey Mulligan,7,18,571571,174441518,2025-06-11
+C0623,I0623,7.8,76,Ridley Scott,Denzel Washington,Russell Crowe,5,23,392449,31666261,2025-06-20
+C0624,I0624,7.8,83,James Cameron,Sam Worthington,Zoe Saldana,8,13,1118998,205192874,2025-03-24
+C0625,I0625,7.8,63,Jaco Van Dormael,Jared Leto,Sarah Polley,9,12,216421,350783618,2025-01-10
+C0626,I0626,7.8,68,Mel Gibson,Gerardo Taracena,Raoul Max Trujillo,9,9,291018,457085959,2025-05-16
+C0627,I0627,7.8,80,Jonathan Dayton,Valerie Faris,Steve Carell,5,16,439856,406934623,2025-01-02
+C0628,I0628,7.8,81,Edgar Wright,Simon Pegg,Nick Frost,2,13,463466,72969923,2025-06-08
+C0629,I0629,7.8,70,David Fincher,Brad Pitt,Cate Blanchett,8,25,589160,394505638,2025-06-09
+C0630,I0630,7.8,67,Yash Chopra,Shah Rukh Khan,Preity Zinta,8,11,49050,392550854,2025-01-15
+C0631,I0631,7.8,51,Anders Thomas Jensen,Ulrich Thomsen,Mads Mikkelsen,4,25,45717,261965277,2025-06-01
+C0632,I0632,7.8,82,Joe Wright,Keira Knightley,Matthew Macfadyen,5,11,258924,40979489,2025-05-27
+C0633,I0633,7.8,68,Roger Donaldson,Anthony Hopkins,Diane Ladd,5,15,51980,458152592,2025-06-09
+C0634,I0634,7.8,73,Satoshi Kon,Shôgo Furuya,Tôru Emori,4,16,31658,342390145,2025-03-31
+C0635,I0635,7.8,74,Joss Whedon,Nathan Fillion,Gina Torres,5,10,283310,413921326,2025-02-23
+C0636,I0636,7.8,72,James Mangold,Joaquin Phoenix,Reese Witherspoon,5,12,234207,416622377,2025-03-12
+C0637,I0637,7.8,61,Mikael Håfström,Andreas Wilson,Henrik Lundström,2,5,35682,65274153,2025-04-11
+C0638,I0638,7.8,53,Nick Cassavetes,Gena Rowlands,James Garner,4,20,520284,438664526,2025-03-29
+C0639,I0639,7.8,75,Walter Salles,Gael García Bernal,Rodrigo De la Serna,1,23,96703,336051386,2025-03-30
+C0640,I0640,7.8,82,Lukas Moodysson,Oksana Akinshina,Artyom Bogucharskiy,8,16,42673,467195924,2025-01-28
+C0641,I0641,7.8,91,Sylvain Chomet,Michèle Caucheteux,Jean-Claude Donda,4,16,50622,233695107,2025-06-06
+C0642,I0642,7.8,58,Chan-wook Park,Lee Yeong-ae,Lee Byung-Hun,2,19,26518,280168523,2025-06-25
+C0643,I0643,7.8,61,Kevin Reynolds,Jim Caviezel,Guy Pearce,4,16,129022,92248601,2025-06-08
+C0644,I0644,7.8,83,Richard Linklater,Ethan Hawke,Trevor Jack Brooks,4,21,60684,308943853,2025-02-16
+C0645,I0645,7.8,48,Boaz Yakin,Denzel Washington,Will Patton,6,6,198089,195747474,2025-03-10
+C0646,I0646,7.8,94,Ang Lee,Yun-Fat Chow,Michelle Yeoh,0,14,253228,448135712,2025-01-27
+C0647,I0647,7.8,87,Pedro Almodóvar,Cecilia Roth,Marisa Paredes,1,7,89058,396044516,2025-03-14
+C0648,I0648,7.8,73,Robert Zemeckis,Tom Hanks,Helen Hunt,2,25,524235,426274169,2025-02-03
+C0649,I0649,7.8,44,Troy Duffy,Willem Dafoe,Sean Patrick Flanery,3,15,227143,375450387,2025-05-12
+C0650,I0650,7.8,84,Michael Mann,Russell Crowe,Al Pacino,6,20,159886,347195581,2025-06-08
+C0651,I0651,7.8,71,Joe Johnston,Jake Gyllenhaal,Chris Cooper,9,23,82855,69985103,2025-03-11
+C0652,I0652,7.8,84,Andrew Adamson,Vicky Jenson,Mike Myers,8,18,613941,425803945,2025-03-09
+C0653,I0653,7.8,75,James Cameron,Leonardo DiCaprio,Kate Winslet,1,14,1046089,213829758,2025-01-29
+C0654,I0654,7.8,43,Takeshi Kitano,Takeshi Kitano,Kayoko Kishimoto,7,10,27712,429038388,2025-04-22
+C0655,I0655,7.8,64,Andrew Niccol,Ethan Hawke,Uma Thurman,8,7,280845,397070250,2025-05-09
+C0656,I0656,7.8,61,David Fincher,Michael Douglas,Deborah Kara Unger,5,22,345096,425285197,2025-02-22
+C0657,I0657,7.8,76,Lars von Trier,Emily Watson,Stellan Skarsgård,2,25,62428,67606920,2025-04-24
+C0658,I0658,7.8,70,Tim Burton,Johnny Depp,Martin Landau,5,15,164937,440552646,2025-04-12
+C0659,I0659,7.8,73,Lasse Hallström,Johnny Depp,Leonardo DiCaprio,9,15,215034,381537843,2025-01-17
+C0660,I0660,7.8,50,George P. Cosmatos,Kevin Jarre,Kurt Russell,8,24,126871,451251401,2025-03-19
+C0661,I0661,7.8,55,David Mickey Evans,Tom Guiry,Mike Vitar,4,13,78963,122061331,2025-05-03
+C0662,I0662,7.8,84,James Ivory,Anthony Hopkins,Emma Thompson,5,5,66065,322617576,2025-04-05
+C0663,I0663,7.8,84,Mike Leigh,David Thewlis,Lesley Sharp,9,15,34635,24769190,2025-05-19
+C0664,I0664,7.8,87,Andrew Davis,Harrison Ford,Tommy Lee Jones,0,15,267684,204698189,2025-05-31
+C0665,I0665,7.8,80,Robert De Niro,Robert De Niro,Chazz Palminteri,8,15,128171,148898807,2025-06-24
+C0666,I0666,7.8,36,Kevin Altieri,Boyd Kirkland,Frank Paur,6,16,43690,403171311,2025-05-17
+C0667,I0667,7.8,58,John Woo,Yun-Fat Chow,Tony Chiu-Wai Leung,0,8,46700,49530612,2025-05-04
+C0668,I0668,7.8,68,Jim Jarmusch,Winona Ryder,Gena Rowlands,10,9,55362,172001842,2025-06-27
+C0669,I0669,7.8,86,Krzysztof Kieslowski,Irène Jacob,Wladyslaw Kowalski,4,14,42376,239366964,2025-06-24
+C0670,I0670,7.8,76,John Singleton,Cuba Gooding Jr.,Laurence Fishburne,9,16,126082,436099140,2025-04-08
+C0671,I0671,7.8,75,Rob Reiner,James Caan,Kathy Bates,6,17,184740,143791752,2025-06-03
+C0672,I0672,7.8,74,Penny Marshall,Robert De Niro,Robin Williams,4,21,125276,89554900,2025-06-30
+C0673,I0673,7.8,83,Hayao Miyazaki,Kirsten Dunst,Minami Takayama,1,25,124193,418199624,2025-04-07
+C0674,I0674,7.8,78,Edward Zwick,Matthew Broderick,Denzel Washington,10,16,122779,409132316,2025-06-29
+C0675,I0675,7.8,82,John Woo,Yun-Fat Chow,Danny Lee,10,11,45624,49869297,2025-01-08
+C0676,I0676,7.8,57,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,10,13,481918,372759177,2025-05-04
+C0677,I0677,7.8,65,Alan Parker,Gene Hackman,Willem Dafoe,3,9,88214,33612542,2025-04-24
+C0678,I0678,7.8,45,John McTiernan,Arnold Schwarzenegger,Carl Weathers,2,11,371387,63753138,2025-01-10
+C0679,I0679,7.8,72,Sam Raimi,Bruce Campbell,Sarah Berry,3,10,148359,378666427,2025-02-09
+C0680,I0680,7.8,61,John Hughes,Matthew Broderick,Alan Ruck,7,6,321382,77058424,2025-03-31
+C0681,I0681,7.8,75,Jim Jarmusch,Tom Waits,John Lurie,5,23,47834,218873127,2025-05-08
+C0682,I0682,7.8,62,Richard Donner,Sean Astin,Josh Brolin,2,12,244430,64258763,2025-05-14
+C0683,I0683,7.8,78,Steven Spielberg,Danny Glover,Whoopi Goldberg,5,23,78321,317125578,2025-04-05
+C0684,I0684,7.8,66,John Hughes,Emilio Estevez,Judd Nelson,8,5,357026,121463970,2025-04-06
+C0685,I0685,7.8,76,Roland Joffé,Sam Waterston,Haing S. Ngor,4,15,51585,450269391,2025-05-17
+C0686,I0686,7.8,71,Ivan Reitman,Bill Murray,Dan Aykroyd,8,10,355413,28808072,2025-06-01
+C0687,I0687,7.8,91,Philip Kaufman,Sam Shepard,Scott Glenn,3,23,56235,88714413,2025-06-12
+C0688,I0688,7.8,73,Martin Scorsese,Robert De Niro,Jerry Lewis,4,9,88511,329124135,2025-05-09
+C0689,I0689,7.8,91,Steven Spielberg,Henry Thomas,Drew Barrymore,1,16,372490,40970675,2025-04-26
+C0690,I0690,7.8,77,Robert Benton,Dustin Hoffman,Meryl Streep,5,6,133351,64758433,2025-03-28
+C0691,I0691,7.8,93,Terrence Malick,Richard Gere,Brooke Adams,9,7,52852,287547219,2025-03-06
+C0692,I0692,7.8,69,Clint Eastwood,Clint Eastwood,Sondra Locke,6,9,65659,121201800,2025-05-07
+C0693,I0693,7.8,91,John Huston,Sean Connery,Michael Caine,1,15,44917,392510731,2025-01-16
+C0694,I0694,7.8,85,Francis Ford Coppola,Gene Hackman,John Cazale,6,9,98611,57050847,2025-02-17
+C0695,I0695,7.8,73,René Laloux,Barry Bostwick,Jennifer Drake,1,13,25229,187585851,2025-03-27
+C0696,I0696,7.8,80,Fred Zinnemann,Edward Fox,Terence Alexander,10,14,37445,350108665,2025-01-18
+C0697,I0697,7.8,93,Terrence Malick,Martin Sheen,Sissy Spacek,8,5,66009,334007665,2025-04-20
+C0698,I0698,7.8,80,Bob Fosse,Liza Minnelli,Michael York,1,5,48334,418085109,2025-02-27
+C0699,I0699,7.8,67,Mel Stuart,Gene Wilder,Jack Albertson,3,24,178731,357219763,2025-06-13
+C0700,I0700,7.8,79,John Schlesinger,Dustin Hoffman,Jon Voight,7,9,101124,458862806,2025-04-04
+C0701,I0701,7.8,81,Terence Young,Audrey Hepburn,Alan Arkin,5,6,27733,95566334,2025-02-16
+C0702,I0702,7.8,63,Stanley Kramer,Spencer Tracy,Sidney Poitier,1,12,39642,146283327,2025-04-12
+C0703,I0703,7.8,86,Arthur Penn,Warren Beatty,Faye Dunaway,10,15,102415,114830689,2025-05-04
+C0704,I0704,7.8,95,George Cukor,Audrey Hepburn,Rex Harrison,1,5,86525,238056527,2025-03-19
+C0705,I0705,7.8,88,Robert Stevenson,Julie Andrews,Dick Van Dyke,10,20,158029,467901925,2025-04-16
+C0706,I0706,7.8,75,Ken Annakin,Andrew Marton,Gerd Oswald,6,23,52141,228339970,2025-05-31
+C0707,I0707,7.8,97,François Truffaut,Jeanne Moreau,Oskar Werner,8,7,37605,425366595,2025-04-28
+C0708,I0708,7.8,88,Jack Clayton,Deborah Kerr,Peter Wyngarde,4,17,27007,22113466,2025-04-30
+C0709,I0709,7.8,63,Jean-Luc Godard,Jean-Paul Belmondo,Jean Seberg,9,6,73251,317294144,2025-01-24
+C0710,I0710,7.8,89,Howard Hawks,Arthur Rosson,John Wayne,3,20,28167,264332273,2025-05-20
+C0711,I0711,7.8,55,John Huston,Humphrey Bogart,Edward G. Robinson,2,5,36995,53612755,2025-04-09
+C0712,I0712,7.8,58,Howard Hawks,Humphrey Bogart,Lauren Bacall,7,6,31053,309594337,2025-01-10
+C0713,I0713,7.8,94,Alfred Hitchcock,Teresa Wright,Joseph Cotten,4,18,59556,149654077,2025-02-02
+C0714,I0714,7.8,93,John Ford,John Wayne,Claire Trevor,10,17,43621,222574791,2025-05-24
+C0715,I0715,7.8,98,Alfred Hitchcock,Margaret Lockwood,Michael Redgrave,8,11,47400,222149583,2025-03-18
+C0716,I0716,7.8,91,Howard Hawks,Katharine Hepburn,Cary Grant,4,6,55163,339639867,2025-05-03
+C0717,I0717,7.8,95,James Whale,Boris Karloff,Elsa Lanchester,2,21,43542,50321743,2025-01-14
+C0718,I0718,7.8,93,Leo McCarey,Groucho Marx,Harpo Marx,0,7,55581,66976824,2025-01-15
+C0719,I0719,7.8,87,Howard Hawks,Richard Rosson,Paul Muni,1,19,25312,104954778,2025-01-03
+C0720,I0720,7.8,91,James Whale,Colin Clive,Mae Clarke,0,18,65341,229312468,2025-02-12
+C0721,I0721,7.7,96,Alfonso Cuarón,Yalitza Aparicio,Marina de Tavira,6,8,140375,200188815,2025-03-29
+C0722,I0722,7.7,85,Francis Lee,Josh O'Connor,Alec Secareanu,6,25,25198,100331582,2025-04-24
+C0723,I0723,7.7,66,David Leitch,Ryan Reynolds,Josh Brolin,4,6,478586,463634287,2025-02-16
+C0724,I0724,7.7,73,Taylor Sheridan,Kelsey Asbille,Jeremy Renner,0,13,205444,410586386,2025-06-09
+C0725,I0725,7.7,85,Jordan Peele,Daniel Kaluuya,Allison Williams,8,6,492851,415480597,2025-04-04
+C0726,I0726,7.7,86,Christopher McQuarrie,Tom Cruise,Henry Cavill,1,20,291257,46878012,2025-02-07
+C0727,I0727,7.7,70,Hannes Holm,Rolf Lassgård,Bahar Pars,2,17,47444,58310739,2025-03-29
+C0728,I0728,7.7,76,Jemaine Clement,Taika Waititi,Jemaine Clement,2,25,157498,22660144,2025-05-26
+C0729,I0729,7.7,72,James Simone,Hiromasa Yonebayashi,Sara Takatsuki,6,15,32798,89187027,2025-03-25
+C0730,I0730,7.7,72,James Marsh,Eddie Redmayne,Felicity Jones,4,7,404182,214507611,2025-03-13
+C0731,I0731,7.7,60,Matthew Vaughn,Colin Firth,Taron Egerton,1,14,590440,139383715,2025-04-03
+C0732,I0732,7.7,69,Josh Boone,Shailene Woodley,Ansel Elgort,1,24,344312,27614551,2025-05-14
+C0733,I0733,7.7,74,Alfonso Gomez-Rejon,Thomas Mann,RJ Cyler,2,11,123210,454211115,2025-06-19
+C0734,I0734,7.7,87,Alejandro G. Iñárritu,Michael Keaton,Zach Galifianakis,7,19,580291,360295331,2025-05-14
+C0735,I0735,7.7,89,Abdellatif Kechiche,Léa Seydoux,Adèle Exarchopoulos,7,9,138741,39309225,2025-04-11
+C0736,I0736,7.7,40,Abhishek Kapoor,Amit Sadh,Sushant Singh Rajput,6,7,32628,132119719,2025-01-14
+C0737,I0737,7.7,70,Felix van Groeningen,Veerle Baetens,Johan Heldenbergh,7,12,39379,383730224,2025-04-03
+C0738,I0738,7.7,70,Anthony Russo,Joe Russo,Chris Evans,7,11,736182,377894947,2025-02-14
+C0739,I0739,7.7,34,Imtiaz Ali,Ranbir Kapoor,Nargis Fakhri,2,7,39501,184890817,2025-05-18
+C0740,I0740,7.7,87,Alexander Payne,Bruce Dern,Will Forte,7,20,112298,386132463,2025-04-09
+C0741,I0741,7.7,72,Rich Moore,John C. Reilly,Jack McBrayer,4,9,380195,51257627,2025-04-27
+C0742,I0742,7.7,70,Mark Osborne,Jeff Bridges,Mackenzie Foy,7,7,56720,81994007,2025-01-08
+C0743,I0743,7.7,52,Tony Kaye,Adrien Brody,Christina Hendricks,1,24,77071,473214970,2025-04-24
+C0744,I0744,7.7,81,Woody Allen,Owen Wilson,Rachel McAdams,0,14,388089,210935222,2025-03-16
+C0745,I0745,7.7,83,Christopher Miller,Phil Lord,Chris Pratt,0,9,323982,78491195,2025-06-26
+C0746,I0746,7.7,96,Alfonso Cuarón,Sandra Bullock,George Clooney,5,17,769145,129392022,2025-04-29
+C0747,I0747,7.7,72,J.J. Abrams,Chris Pine,Zachary Quinto,7,21,463188,305430287,2025-01-01
+C0748,I0748,7.7,79,Cary Joji Fukunaga,Abraham Attah,Emmanuel Affadzi,6,14,73964,196779370,2025-01-22
+C0749,I0749,7.7,95,David Fincher,Jesse Eisenberg,Andrew Garfield,3,25,624982,174194860,2025-06-01
+C0750,I0750,7.7,65,Matthew Vaughn,James McAvoy,Michael Fassbender,3,19,645512,332898962,2025-03-16
+C0751,I0751,7.7,73,Todd Phillips,Zach Galifianakis,Bradley Cooper,2,16,717559,405345092,2025-01-14
+C0752,I0752,7.7,81,Sam Mendes,Daniel Craig,Javier Bardem,9,10,630614,29323587,2025-02-13
+C0753,I0753,7.7,81,David O. Russell,Bradley Cooper,Jennifer Lawrence,3,8,661871,378354989,2025-05-08
+C0754,I0754,7.7,86,Ben Affleck,Ben Affleck,Bryan Cranston,1,22,572581,190531913,2025-05-07
+C0755,I0755,7.7,76,Marc Webb,Zooey Deschanel,Joseph Gordon-Levitt,4,17,472242,185733156,2025-04-21
+C0756,I0756,7.7,65,David Yates,Daniel Radcliffe,Emma Watson,1,8,479120,388167150,2025-04-04
+C0757,I0757,7.7,86,Hayao Miyazaki,Cate Blanchett,Matt Damon,5,23,125317,97488202,2025-03-15
+C0758,I0758,7.7,80,Ron Howard,Frank Langella,Michael Sheen,3,23,103330,49254819,2025-02-20
+C0759,I0759,7.7,81,Satoshi Kon,Megumi Hayashibara,Tôru Emori,5,14,71379,262578234,2025-04-07
+C0760,I0760,7.7,63,Clint Eastwood,Angelina Jolie,Colm Feore,9,16,239203,241065177,2025-06-07
+C0761,I0761,7.7,45,Rob Reiner,Madeline Carroll,Callan McAuliffe,8,21,81446,64488996,2025-04-02
+C0762,I0762,7.7,66,Mamoru Hosoda,Riisa Naka,Takuya Ishida,0,5,60368,68690408,2025-03-28
+C0763,I0763,7.7,95,Shûsuke Kaneko,Tatsuya Fujiwara,Ken'ichi Matsuyama,6,8,28630,39134143,2025-05-30
+C0764,I0764,7.7,86,Shane Meadows,Thomas Turgoose,Stephen Graham,8,7,115576,251525640,2025-05-13
+C0765,I0765,7.7,78,Alex Garland,Alicia Vikander,Domhnall Gleeson,3,20,474141,350945216,2025-05-10
+C0766,I0766,7.7,78,Susanne Bier,Mads Mikkelsen,Sidse Babett Knudsen,4,7,32001,232494379,2025-06-07
+C0767,I0767,7.7,74,Kevin Macdonald,James McAvoy,Forest Whitaker,3,9,175355,212293436,2025-06-02
+C0768,I0768,7.7,78,David Fincher,Jake Gyllenhaal,Robert Downey Jr.,8,16,466080,343205883,2025-04-23
+C0769,I0769,7.7,53,Paul McGuigan,Josh Hartnett,Ben Kingsley,9,23,299524,37286748,2025-04-20
+C0770,I0770,7.7,70,Christian Carion,Diane Kruger,Benno Fürmann,4,24,28003,141563798,2025-02-12
+C0771,I0771,7.7,78,Anton Corbijn,Sam Riley,Samantha Morton,10,11,61609,283630977,2025-01-04
+C0772,I0772,7.7,71,Nathan Greno,Byron Howard,Mandy Moore,9,14,405922,1453910,2025-05-15
+C0773,I0773,7.7,71,Paul Verhoeven,Carice van Houten,Sebastian Koch,8,18,72643,307047734,2025-01-19
+C0774,I0774,7.7,87,Ang Lee,Jake Gyllenhaal,Heath Ledger,7,25,323103,250720671,2025-03-01
+C0775,I0775,7.7,76,James Mangold,Russell Crowe,Christian Bale,3,8,288797,337041718,2025-05-09
+C0776,I0776,7.7,66,Paul Haggis,Don Cheadle,Sandra Bullock,5,23,419483,331674549,2025-06-27
+C0777,I0777,7.7,78,Stephen Chow,Stephen Chow,Wah Yuen,10,11,127250,139862173,2025-03-28
+C0778,I0778,7.7,73,Paul Greengrass,Matt Damon,Franka Potente,5,16,434841,455889393,2025-05-30
+C0779,I0779,7.7,61,Brad Anderson,Christian Bale,Jennifer Jason Leigh,3,7,358432,231329063,2025-01-25
+C0780,I0780,7.7,73,Taylor Hackford,Jamie Foxx,Regina King,9,11,138356,416933351,2025-06-01
+C0781,I0781,7.7,89,Sofia Coppola,Bill Murray,Scarlett Johansson,10,9,415074,74134221,2025-01-01
+C0782,I0782,7.7,81,Mike Newell,Daniel Radcliffe,Emma Watson,6,14,548619,198911061,2025-03-15
+C0783,I0783,7.7,47,Tony Scott,Denzel Washington,Christopher Walken,6,10,329592,164330378,2025-04-24
+C0784,I0784,7.7,80,Henry Selick,Dakota Fanning,Teri Hatcher,5,6,197761,420840376,2025-03-25
+C0785,I0785,7.7,55,Edward Zwick,Tom Cruise,Ken Watanabe,0,10,400049,253703723,2025-03-04
+C0786,I0786,7.7,83,Peter Mullan,Eileen Walsh,Dorothy Duffy,2,10,25938,166224411,2025-03-23
+C0787,I0787,7.7,68,Wolfgang Becker,Daniel Brühl,Katrin Saß,5,25,137981,297123590,2025-01-27
+C0788,I0788,7.7,76,Jim Sheridan,Paddy Considine,Samantha Morton,9,22,40403,325317366,2025-05-10
+C0789,I0789,7.7,28,Jessie Nelson,Sean Penn,Michelle Pfeiffer,9,13,142863,245037689,2025-02-07
+C0790,I0790,7.7,83,Spike Jonze,Nicolas Cage,Meryl Streep,6,22,178565,56184537,2025-05-29
+C0791,I0791,7.7,74,Ridley Scott,Josh Hartnett,Ewan McGregor,10,10,364254,368807774,2025-01-07
+C0792,I0792,7.7,72,Sam Mendes,Tom Hanks,Tyler Hoechlin,7,25,246840,20682520,2025-04-25
+C0793,I0793,7.7,60,Oliver Hirschbiegel,Moritz Bleibtreu,Christian Berkel,8,25,90842,294613657,2025-05-24
+C0794,I0794,7.7,74,Stephen Daldry,Jamie Bell,Julie Walters,8,11,126770,466617876,2025-03-12
+C0795,I0795,7.7,85,John Cameron Mitchell,John Cameron Mitchell,Miriam Shor,0,6,31957,83053283,2025-04-03
+C0796,I0796,7.7,74,Steven Soderbergh,George Clooney,Brad Pitt,9,17,516372,80893209,2025-01-15
+C0797,I0797,7.7,62,Yoshiaki Kawajiri,Andrew Philpot,John Rafter Lee,3,18,29210,374586926,2025-06-23
+C0798,I0798,7.7,69,Joel Coen,Ethan Coen,George Clooney,8,8,286742,387474565,2025-02-25
+C0799,I0799,7.7,78,Bob Gale,James Marsden,Gary Oldman,6,18,29999,453664406,2025-05-15
+C0800,I0800,7.7,73,Trey Parker,Trey Parker,Matt Stone,6,16,192112,73935036,2025-06-17
+C0801,I0801,7.7,68,Mike Judge,Ron Livingston,Jennifer Aniston,9,17,241575,437714700,2025-01-06
+C0802,I0802,7.7,81,Todd Solondz,Jane Adams,Jon Lovitz,0,12,66408,102195798,2025-04-22
+C0803,I0803,7.7,69,Antoine Fuqua,Denzel Washington,Ethan Hawke,10,23,390247,83482284,2025-06-26
+C0804,I0804,7.7,86,Wes Anderson,Jason Schwartzman,Bill Murray,5,17,169229,180386251,2025-06-29
+C0805,I0805,7.7,57,Alejandro Amenábar,Eduardo Noriega,Penélope Cruz,1,12,64082,110503960,2025-06-16
+C0806,I0806,7.7,90,Spike Jonze,John Cusack,Cameron Diaz,7,24,312542,428443559,2025-02-23
+C0807,I0807,7.7,67,James L. Brooks,Jack Nicholson,Helen Hunt,1,21,275755,210539602,2025-04-19
+C0808,I0808,7.7,52,Luc Besson,Bruce Willis,Milla Jovovich,3,23,434125,228613292,2025-02-06
+C0809,I0809,7.7,73,Francis Veber,Thierry Lhermitte,Jacques Villeret,0,23,37424,219392149,2025-01-17
+C0810,I0810,7.7,76,Mike Newell,Al Pacino,Johnny Depp,4,9,279318,102868857,2025-05-24
+C0811,I0811,7.7,87,Scott Hicks,Geoffrey Rush,Armin Mueller-Stahl,10,8,51350,131638379,2025-04-26
+C0812,I0812,7.7,47,Gregory Hoblit,Richard Gere,Laura Linney,1,23,189716,333580252,2025-06-03
+C0813,I0813,7.7,90,Kenneth Branagh,Kenneth Branagh,Julie Christie,4,7,35991,132534065,2025-03-29
+C0814,I0814,7.7,83,Alfonso Cuarón,Liesel Matthews,Eleanor Bron,5,15,32236,357490766,2025-05-05
+C0815,I0815,7.7,71,Kar-Wai Wong,Leon Lai,Michelle Reis,8,5,26429,198165622,2025-06-09
+C0816,I0816,7.7,81,Michael Radford,Massimo Troisi,Massimo Troisi,7,15,33600,66400738,2025-01-12
+C0817,I0817,7.7,70,Kevin Smith,Brian O'Halloran,Jeff Anderson,2,19,211450,134297519,2025-03-16
+C0818,I0818,7.7,79,Robert Altman,Andie MacDowell,Julianne Moore,5,20,42275,394736734,2025-04-15
+C0819,I0819,7.7,66,Jonathan Demme,Tom Hanks,Denzel Washington,0,5,224169,105399161,2025-06-12
+C0820,I0820,7.7,64,Brian Henson,Michael Caine,Kermit the Frog,6,25,50298,321480085,2025-05-09
+C0821,I0821,7.7,73,Spike Lee,Denzel Washington,Angela Bassett,7,6,85819,353648523,2025-05-13
+C0822,I0822,7.7,76,Michael Mann,Daniel Day-Lewis,Madeleine Stowe,6,24,150409,406088101,2025-04-23
+C0823,I0823,7.7,83,Hayao Miyazaki,Shûichirô Moriyama,Tokiko Katô,7,22,77798,174968925,2025-03-17
+C0824,I0824,7.7,82,James Foley,Al Pacino,Jack Lemmon,1,23,95826,285002539,2025-06-13
+C0825,I0825,7.7,62,Rob Reiner,Tom Cruise,Jack Nicholson,6,14,235388,128767418,2025-05-19
+C0826,I0826,7.7,64,Jon Avnet,Kathy Bates,Jessica Tandy,5,16,66941,350040594,2025-02-06
+C0827,I0827,7.7,69,Joel Coen,Ethan Coen,John Turturro,1,19,113240,235872241,2025-03-06
+C0828,I0828,7.7,66,Joel Coen,Ethan Coen,Gabriel Byrne,0,5,125822,119492277,2025-05-09
+C0829,I0829,7.7,83,Robert Zemeckis,Bob Hoskins,Christopher Lloyd,1,15,182009,374143661,2025-05-24
+C0830,I0830,7.7,85,George Sluizer,Bernard-Pierre Donnadieu,Gene Bervoets,1,16,33982,359100503,2025-02-11
+C0831,I0831,7.7,84,Bruce Robinson,Richard E. Grant,Paul McGann,7,12,40396,391721068,2025-05-12
+C0832,I0832,7.7,76,Bernardo Bertolucci,John Lone,Joan Chen,7,19,94326,323291741,2025-04-12
+C0833,I0833,7.7,62,Steven Spielberg,Christian Bale,John Malkovich,6,14,115677,476667616,2025-05-17
+C0834,I0834,7.7,54,Jean-Jacques Annaud,Sean Connery,Christian Slater,4,24,102031,187428665,2025-03-05
+C0835,I0835,7.7,76,David Lynch,Isabella Rossellini,Kyle MacLachlan,8,8,181285,355088969,2025-04-19
+C0836,I0836,7.7,75,Woody Allen,Mia Farrow,Jeff Daniels,6,23,47102,246827294,2025-05-22
+C0837,I0837,7.7,90,Martin Scorsese,Griffin Dunne,Rosanna Arquette,3,10,59635,364504053,2025-06-09
+C0838,I0838,7.7,97,Woody Allen,Woody Allen,Mia Farrow,0,12,39881,410500412,2025-06-03
+C0839,I0839,7.7,77,Sidney Lumet,Paul Newman,Charlotte Rampling,5,20,36096,375771394,2025-01-25
+C0840,I0840,7.7,67,Nicholas Meyer,William Shatner,Leonard Nimoy,0,8,112704,220574848,2025-02-14
+C0841,I0841,7.7,61,Ted Kotcheff,Sylvester Stallone,Brian Dennehy,10,24,226541,365574563,2025-04-04
+C0842,I0842,7.7,86,Robert Redford,Donald Sutherland,Mary Tyler Moore,6,10,47099,54920007,2025-01-30
+C0843,I0843,7.7,78,Jim Abrahams,David Zucker,Jerry Zucker,2,19,214882,223632924,2025-01-19
+C0844,I0844,7.7,71,Hayao Miyazaki,Yasuo Yamada,Eiko Masuyama,2,21,27014,212748659,2025-06-12
+C0845,I0845,7.7,87,John Carpenter,Donald Pleasence,Jamie Lee Curtis,3,11,233106,452077479,2025-05-27
+C0846,I0846,7.7,71,Roman Polanski,Roman Polanski,Isabelle Adjani,1,10,39889,246193000,2025-04-21
+C0847,I0847,7.7,89,Woody Allen,Woody Allen,Diane Keaton,7,5,36037,250188255,2025-05-15
+C0848,I0848,7.7,68,Joseph Sargent,Walter Matthau,Robert Shaw,8,21,26729,130798968,2025-06-20
+C0849,I0849,7.7,73,Mel Brooks,Cleavon Little,Gene Wilder,5,5,125993,210107089,2025-01-25
+C0850,I0850,7.7,87,Sidney Lumet,Al Pacino,John Randolph,3,5,109941,301238844,2025-03-06
+C0851,I0851,7.7,83,Robert Clouse,Bruce Lee,John Saxon,1,16,96561,62300623,2025-01-22
+C0852,I0852,7.7,80,John Boorman,Jon Voight,Burt Reynolds,10,20,98740,167654435,2025-01-27
+C0853,I0853,7.7,94,William Friedkin,Gene Hackman,Roy Scheider,9,14,110075,145840061,2025-01-10
+C0854,I0854,7.7,90,Don Siegel,Clint Eastwood,Andrew Robinson,2,15,143292,447526562,2025-02-19
+C0855,I0855,7.7,63,Brian G. Hutton,Richard Burton,Clint Eastwood,2,21,51913,465373409,2025-01-04
+C0856,I0856,7.7,86,Gene Saks,Jack Lemmon,Walter Matthau,3,9,31572,440905430,2025-06-27
+C0857,I0857,7.7,73,Robert Aldrich,Lee Marvin,Ernest Borgnine,1,18,67183,278692823,2025-02-21
+C0858,I0858,7.7,74,Luis Buñuel,Catherine Deneuve,Jean Sorel,8,11,40274,301497626,2025-04-13
+C0859,I0859,7.7,72,Fred Zinnemann,Paul Scofield,Wendy Hiller,10,21,31222,351998240,2025-05-23
+C0860,I0860,7.7,91,Roman Polanski,Catherine Deneuve,Ian Hendry,3,21,48883,23768908,2025-02-05
+C0861,I0861,7.7,77,Cy Endfield,Stanley Baker,Jack Hawkins,6,9,35999,263853856,2025-06-21
+C0862,I0862,7.7,87,Guy Hamilton,Sean Connery,Gert Fröbe,4,9,174119,356119708,2025-04-09
+C0863,I0863,7.7,90,Alfred Hitchcock,Rod Taylor,Tippi Hedren,10,25,171739,163400944,2025-05-21
+C0864,I0864,7.7,76,J. Lee Thompson,Gregory Peck,Robert Mitchum,1,6,26457,168531843,2025-06-27
+C0865,I0865,7.7,31,Michael Powell,Karlheinz Böhm,Anna Massey,4,6,31354,20730155,2025-03-28
+C0866,I0866,7.7,74,John Sturges,Yul Brynner,Steve McQueen,1,22,87719,415186753,2025-05-06
+C0867,I0867,7.7,90,Georges Franju,Pierre Brasseur,Alida Valli,7,20,27620,282220591,2025-05-21
+C0868,I0868,7.7,92,Don Siegel,Kevin McCarthy,Dana Wynter,0,19,44839,410676225,2025-03-24
+C0869,I0869,7.7,89,Nicholas Ray,James Dean,Natalie Wood,0,11,83363,343563815,2025-01-12
+C0870,I0870,7.7,91,Alexander Mackendrick,Alec Guinness,Peter Sellers,7,12,26464,477418181,2025-01-17
+C0871,I0871,7.7,72,Billy Wilder,Humphrey Bogart,Audrey Hepburn,9,9,59415,43879333,2025-05-06
+C0872,I0872,7.7,80,John Ford,John Wayne,Maureen O'Hara,8,10,34677,426930882,2025-03-23
+C0873,I0873,7.7,52,Robert Wise,Michael Rennie,Patricia Neal,2,7,76315,66673124,2025-02-07
+C0874,I0874,7.7,91,John Huston,Humphrey Bogart,Katharine Hepburn,6,14,71481,169498545,2025-05-20
+C0875,I0875,7.7,59,Charles Vidor,Rita Hayworth,Glenn Ford,0,5,27991,470546247,2025-01-16
+C0876,I0876,7.7,96,James Algar,Samuel Armstrong,Ford Beebe Jr.,2,24,88662,264952567,2025-01-23
+C0877,I0877,7.7,87,James Whale,Claude Rains,Gloria Stuart,3,21,30683,101934518,2025-01-10
+C0878,I0878,7.6,73,Todd Haynes,Mark Ruffalo,Anne Hathaway,5,17,60408,8381364,2025-01-26
+C0879,I0879,7.6,71,Aneesh Chaganty,John Cho,Debra Messing,6,23,140840,48928955,2025-04-23
+C0880,I0880,7.6,83,Quentin Tarantino,Leonardo DiCaprio,Brad Pitt,9,9,551309,65408326,2025-05-26
+C0881,I0881,7.6,86,Andrey Zvyagintsev,Maryana Spivak,Aleksey Rozin,4,11,29765,75860886,2025-01-12
+C0882,I0882,7.6,92,Sean Baker,Brooklynn Prince,Bria Vinaite,2,23,95181,360408209,2025-01-06
+C0883,I0883,7.6,68,Destin Daniel Cretton,Michael B. Jordan,Jamie Foxx,6,15,46739,136741138,2025-02-25
+C0884,I0884,7.6,60,Marc Webb,Chris Evans,Mckenna Grace,10,7,99643,286335834,2025-04-27
+C0885,I0885,7.6,70,Tyler Nilson,Michael Schwartz,Zack Gottsagen,7,18,66346,285499643,2025-03-05
+C0886,I0886,7.6,77,Sebastian Schipper,Laia Costa,Frederick Lau,0,21,52903,202363416,2025-06-24
+C0887,I0887,7.6,83,Deniz Gamze Ergüven,Günes Sensoy,Doga Zeynep Doguslu,1,14,35785,356417032,2025-02-08
+C0888,I0888,7.6,67,James Gunn,Chris Pratt,Zoe Saldana,0,9,569974,26240669,2025-05-22
+C0889,I0889,7.6,86,Edgar Wright,Ansel Elgort,Jon Bernthal,4,22,439406,395600925,2025-04-27
+C0890,I0890,7.6,72,Joseph Kosinski,Josh Brolin,Miles Teller,9,12,58371,41579838,2025-05-09
+C0891,I0891,7.6,81,Steven Spielberg,Tom Hanks,Mark Rylance,5,17,287659,410911406,2025-01-06
+C0892,I0892,7.6,80,Brad Bird,Craig T. Nelson,Holly Hunter,0,13,250057,347546127,2025-03-04
+C0893,I0893,7.6,81,Ron Clements,John Musker,Don Hall,5,14,272784,169951101,2025-04-09
+C0894,I0894,7.6,82,Denis Villeneuve,Emily Blunt,Josh Brolin,2,16,371291,118401890,2025-06-01
+C0895,I0895,7.6,82,Ryan Coogler,Michael B. Jordan,Sylvester Stallone,4,19,247666,37483752,2025-05-13
+C0896,I0896,7.6,92,Andrey Zvyagintsev,Aleksey Serebryakov,Elena Lyadova,6,21,49397,204078180,2025-06-22
+C0897,I0897,7.6,88,David Mackenzie,Chris Pine,Ben Foster,5,14,204175,292570369,2025-06-09
+C0898,I0898,7.6,77,Stephen Frears,Judi Dench,Steve Coogan,3,12,94212,36897611,2025-04-02
+C0899,I0899,7.6,79,Matt Reeves,Gary Oldman,Keri Russell,10,20,411599,336594232,2025-03-20
+C0900,I0900,7.6,49,Oriol Paulo,Jose Coronado,Hugo Silva,3,18,57549,308745565,2025-02-20
+C0901,I0901,7.6,73,Gareth Evans,Iko Uwais,Ananda George,3,7,190531,45666088,2025-01-04
+C0902,I0902,7.6,68,David Ayer,Jake Gyllenhaal,Michael Peña,1,11,228132,464527685,2025-05-15
+C0903,I0903,7.6,80,Hiromasa Yonebayashi,Amy Poehler,Mirai Shida,8,22,80939,243457074,2025-06-10
+C0904,I0904,7.6,88,Bradley Cooper,Lady Gaga,Bradley Cooper,4,15,334312,100589374,2025-01-27
+C0905,I0905,7.6,80,Ethan Coen,Joel Coen,Jeff Bridges,6,24,311822,138612244,2025-06-14
+C0906,I0906,7.6,65,Susanne Bier,Mikael Persbrandt,Trine Dyrholm,5,6,38491,205752704,2025-03-15
+C0907,I0907,7.6,72,Pierre Coffin,Chris Renaud,Steve Carell,7,25,500851,209381540,2025-03-04
+C0908,I0908,7.6,72,Jonathan Levine,Joseph Gordon-Levitt,Seth Rogen,1,21,315426,469445516,2025-02-23
+C0909,I0909,7.6,66,Matthew Vaughn,Aaron Taylor-Johnson,Nicolas Cage,5,17,524081,445968241,2025-02-04
+C0910,I0910,7.6,78,Daniel Monzón,Luis Tosar,Alberto Ammann,7,19,63882,9226548,2025-02-01
+C0911,I0911,7.6,87,Bennett Miller,Brad Pitt,Robin Wright,3,21,369529,465063745,2025-05-10
+C0912,I0912,7.6,70,Pedro Almodóvar,Antonio Banderas,Elena Anaya,2,20,138959,304792070,2025-02-04
+C0913,I0913,7.6,73,Ruben Fleischer,Jesse Eisenberg,Emma Stone,5,14,520041,329093369,2025-01-20
+C0914,I0914,7.6,86,Dennis Gansel,Jürgen Vogel,Frederick Lau,10,8,102742,385541029,2025-02-16
+C0915,I0915,7.6,57,Guy Ritchie,Robert Downey Jr.,Jude Law,2,11,583158,351956104,2025-03-12
+C0916,I0916,7.6,53,John Lee Hancock,Quinton Aaron,Sandra Bullock,2,11,293266,115540598,2025-06-23
+C0917,I0917,7.6,79,Tom McCarthy,Richard Jenkins,Haaz Sleiman,4,18,41544,284414445,2025-06-09
+C0918,I0918,7.6,36,Gabriele Muccino,Will Smith,Rosario Dawson,5,22,286770,322957463,2025-03-04
+C0919,I0919,7.6,82,David Cronenberg,Naomi Watts,Viggo Mortensen,10,7,227760,48203777,2025-06-21
+C0920,I0920,7.6,66,Matthew Vaughn,Charlie Cox,Claire Danes,4,7,255036,174630886,2025-02-21
+C0921,I0921,7.6,81,Tomm Moore,Nora Twomey,Evan McGuire,8,23,31779,447727724,2025-03-03
+C0922,I0922,7.6,76,Spike Lee,Denzel Washington,Clive Owen,0,12,339757,30795332,2025-05-01
+C0923,I0923,7.6,72,Ben Affleck,Morgan Freeman,Ed Harris,4,7,250590,362320521,2025-02-21
+C0924,I0924,7.6,66,Olivier Dahan,Marion Cotillard,Sylvie Testud,7,19,82781,96439572,2025-03-28
+C0925,I0925,7.6,70,Ronny Yu,Jet Li,Li Sun,3,17,72863,39467091,2025-03-04
+C0926,I0926,7.6,68,Neil Burger,Edward Norton,Jessica Biel,4,25,354728,132890086,2025-02-13
+C0927,I0927,7.6,52,Shane Meadows,Paddy Considine,Gary Stretch,4,18,49728,231648959,2025-06-13
+C0928,I0928,7.6,78,David Yates,Daniel Radcliffe,Emma Watson,7,23,474827,151628105,2025-02-02
+C0929,I0929,7.6,52,Zack Snyder,Gerard Butler,Lena Headey,0,5,732876,363858231,2025-03-10
+C0930,I0930,7.6,72,Woody Allen,Scarlett Johansson,Jonathan Rhys Meyers,6,8,206294,146104370,2025-05-11
+C0931,I0931,7.6,56,Zack Snyder,Jackie Earle Haley,Patrick Wilson,8,12,500799,215471631,2025-03-02
+C0932,I0932,7.6,62,Andrew Niccol,Nicolas Cage,Ethan Hawke,10,18,294140,393163215,2025-06-21
+C0933,I0933,7.6,46,James Wan,Cary Elwes,Leigh Whannell,7,24,379020,4085172,2025-04-30
+C0934,I0934,7.6,67,Charlie Kaufman,Philip Seymour Hoffman,Samantha Morton,3,11,83158,17305231,2025-03-08
+C0935,I0935,7.6,73,Gregg Araki,Brady Corbet,Joseph Gordon-Levitt,9,7,65939,245898890,2025-03-14
+C0936,I0936,7.6,45,Yann Samuell,Guillaume Canet,Marion Cotillard,1,25,67360,208347735,2025-06-19
+C0937,I0937,7.6,76,Jean-Pierre Jeunet,Audrey Tautou,Gaspard Ulliel,6,19,70925,125116602,2025-03-20
+C0938,I0938,7.6,81,Tom McCarthy,Peter Dinklage,Patricia Clarkson,9,20,67370,318498264,2025-06-23
+C0939,I0939,7.6,70,Alejandro G. Iñárritu,Sean Penn,Benicio Del Toro,6,19,224545,352807005,2025-05-28
+C0940,I0940,7.6,56,Chan-wook Park,Kang-ho Song,Shin Ha-kyun,3,6,62659,24422462,2025-03-03
+C0941,I0941,7.6,67,Marc Forster,Johnny Depp,Kate Winslet,8,21,198677,426381291,2025-05-14
+C0942,I0942,7.6,68,Spike Lee,Edward Norton,Barry Pepper,8,17,169708,207741165,2025-01-08
+C0943,I0943,7.6,30,Eric Bress,J. Mackye Gruber,Ashton Kutcher,8,17,451479,65431274,2025-03-02
+C0944,I0944,7.6,73,Danny Boyle,Cillian Murphy,Naomie Harris,3,20,376853,334966809,2025-02-12
+C0945,I0945,7.6,81,Kinji Fukasaku,Tatsuya Fujiwara,Aki Maeda,0,12,169091,172222112,2025-01-30
+C0946,I0946,7.6,76,Wes Anderson,Gene Hackman,Gwyneth Paltrow,3,9,266842,464997762,2025-03-15
+C0947,I0947,7.6,88,Alfonso Cuarón,Maribel Verdú,Gael García Bernal,1,19,115827,104129488,2025-03-03
+C0948,I0948,7.6,64,Chris Columbus,Daniel Radcliffe,Rupert Grint,10,7,658185,97349017,2025-03-24
+C0949,I0949,7.6,74,Alejandro Amenábar,Nicole Kidman,Christopher Eccleston,5,8,337651,302772566,2025-01-01
+C0950,I0950,7.6,52,Ted Demme,Johnny Depp,Penélope Cruz,10,23,240714,317813460,2025-06-16
+C0951,I0951,7.6,53,Jean-Jacques Annaud,Jude Law,Ed Harris,5,18,243729,26426753,2025-01-21
+C0952,I0952,7.6,80,Steven Spielberg,Tom Cruise,Colin Farrell,4,9,508417,231761525,2025-04-02
+C0953,I0953,7.6,74,Norman Jewison,Denzel Washington,Vicellous Shannon,4,6,91557,471885871,2025-02-09
+C0954,I0954,7.6,64,Mary Harron,Christian Bale,Justin Theroux,8,8,490062,8923355,2025-01-11
+C0955,I0955,7.6,77,Tom Tykwer,Franka Potente,Moritz Bleibtreu,8,12,188317,284651930,2025-03-03
+C0956,I0956,7.6,78,Terrence Malick,Jim Caviezel,Sean Penn,7,9,172710,229288076,2025-06-20
+C0957,I0957,7.6,71,Tony Bancroft,Barry Cook,Ming-Na Wen,0,13,256906,164110703,2025-04-18
+C0958,I0958,7.6,41,Terry Gilliam,Johnny Depp,Benicio Del Toro,8,23,259753,236305139,2025-05-18
+C0959,I0959,7.6,69,Michael Haneke,Susanne Lothar,Ulrich Mühe,2,7,65058,33841884,2025-03-18
+C0960,I0960,7.6,66,Alex Proyas,Rufus Sewell,Kiefer Sutherland,8,7,187927,170937715,2025-05-15
+C0961,I0961,7.6,49,Barry Levinson,Robert De Niro,Kevin Bacon,6,15,186734,234434033,2025-06-10
+C0962,I0962,7.6,52,David Lynch,Bill Pullman,Patricia Arquette,9,19,131101,334955245,2025-04-25
+C0963,I0963,7.6,84,Ang Lee,Emma Thompson,Kate Winslet,8,21,102598,298947989,2025-01-04
+C0964,I0964,7.6,58,John McTiernan,Bruce Willis,Jeremy Irons,2,6,364420,166404733,2025-05-28
+C0965,I0965,7.6,62,Jim Jarmusch,Johnny Depp,Gary Farmer,4,8,90442,304491881,2025-02-04
+C0966,I0966,7.6,69,Clint Eastwood,Clint Eastwood,Meryl Streep,1,10,73172,139803473,2025-04-09
+C0967,I0967,7.6,77,Ron Howard,Tom Hanks,Bill Paxton,3,24,269197,344918696,2025-05-30
+C0968,I0968,7.6,88,Krzysztof Kieslowski,Zbigniew Zamachowski,Julie Delpy,8,10,64390,266368398,2025-06-03
+C0969,I0969,7.6,56,Joel Schumacher,Michael Douglas,Robert Duvall,8,19,171640,37127755,2025-06-08
+C0970,I0970,7.6,78,Richard Linklater,Jason London,Wiley Wiggins,6,21,165465,283437110,2025-05-04
+C0971,I0971,7.6,68,Jonathan Lynn,Joe Pesci,Marisa Tomei,2,21,107325,50905145,2025-01-28
+C0972,I0972,7.6,90,Isao Takahata,Miki Imai,Toshirô Yanagiba,3,13,27071,441915319,2025-06-17
+C0973,I0973,7.6,66,Marc Caro,Jean-Pierre Jeunet,Marie-Laure Dougnac,9,12,80487,149510314,2025-05-15
+C0974,I0974,7.6,63,Chris Columbus,Macaulay Culkin,Joe Pesci,4,7,488817,290349800,2025-01-04
+C0975,I0975,7.6,60,Francis Ford Coppola,Al Pacino,Diane Keaton,10,18,359809,34148854,2025-04-04
+C0976,I0976,7.6,76,Rob Reiner,Billy Crystal,Meg Ryan,3,15,195663,463949451,2025-04-12
+C0977,I0977,7.6,88,Ron Clements,John Musker,Jodi Benson,2,25,237696,177245730,2025-05-29
+C0978,I0978,7.6,76,David Zucker,Leslie Nielsen,Priscilla Presley,2,20,152871,214987145,2025-03-23
+C0979,I0979,7.6,72,John Hughes,Steve Martin,John Candy,2,20,124773,232135898,2025-04-21
+C0980,I0980,7.6,68,Richard Donner,Mel Gibson,Danny Glover,2,22,236894,92665297,2025-02-01
+C0981,I0981,7.6,82,Joel Coen,Ethan Coen,John Getz,6,14,87745,338440188,2025-01-14
+C0982,I0982,7.6,68,Mark Rydell,Katharine Hepburn,Henry Fonda,6,15,27650,32819209,2025-06-06
+C0983,I0983,7.6,77,George Miller,Mel Gibson,Bruce Spence,0,9,166588,27698890,2025-05-01
+C0984,I0984,7.6,65,Walter Hill,Michael Beck,James Remar,8,12,93878,242436156,2025-03-28
+C0985,I0985,7.6,74,James Frawley,Jim Henson,Frank Oz,3,20,32802,109665962,2025-02-24
+C0986,I0986,7.6,76,Don Siegel,Clint Eastwood,Patrick McGoohan,4,25,121731,114713133,2025-01-06
+C0987,I0987,7.6,64,Martin Rosen,John Hubley,John Hurt,7,16,33656,328010885,2025-05-15
+C0988,I0988,7.6,59,Alan Parker,Brad Davis,Irene Miracle,9,10,73662,314779719,2025-01-01
+C0989,I0989,7.6,90,Steven Spielberg,Richard Dreyfuss,François Truffaut,8,9,184966,392779631,2025-01-21
+C0990,I0990,7.6,87,Robert Altman,Elliott Gould,Nina van Pallandt,4,23,26337,289853037,2025-04-21
+C0991,I0991,7.6,77,Sergio Leone,Rod Steiger,James Coburn,6,8,30144,306274676,2025-04-26
+C0992,I0992,7.6,50,Brian G. Hutton,Clint Eastwood,Telly Savalas,10,23,45338,74142729,2025-06-02
+C0993,I0993,7.6,65,Wolfgang Reitherman,Phil Harris,Sebastian Cabot,10,18,166409,186947265,2025-04-13
+C0994,I0994,7.6,82,Michelangelo Antonioni,David Hemmings,Vanessa Redgrave,1,6,56513,228329506,2025-06-01
+C0995,I0995,7.6,96,Richard Lester,John Lennon,Paul McCartney,7,21,40351,66026185,2025-03-17
+C0996,I0996,7.6,76,Blake Edwards,Audrey Hepburn,George Peppard,0,8,166544,268550056,2025-06-24
+C0997,I0997,7.6,84,George Stevens,Elizabeth Taylor,Rock Hudson,7,17,34075,120905448,2025-05-10
+C0998,I0998,7.6,85,Fred Zinnemann,Burt Lancaster,Montgomery Clift,9,20,43374,45559345,2025-04-02
+C0999,I0999,7.6,78,Alfred Hitchcock,Tallulah Bankhead,John Hodiak,9,23,26471,11456886,2025-02-09
+C1000,I1000,7.6,93,Alfred Hitchcock,Robert Donat,Madeleine Carroll,2,9,51853,317167845,2025-01-01
